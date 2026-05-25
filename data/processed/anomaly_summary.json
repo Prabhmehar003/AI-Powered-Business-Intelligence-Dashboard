@@ -1,0 +1,6 @@
+{
+  "events": 50,
+  "high_severity": 15,
+  "medium_severity": 26,
+  "window_days": 28
+}

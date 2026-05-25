@@ -1,0 +1,8 @@
+[project]
+name = "ai-powered-bi-dashboard"
+version = "1.0.0"
+description = "End-to-end AI-powered business intelligence dashboard with forecasting, anomaly detection, Tableau exports, and Q&A."
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 110

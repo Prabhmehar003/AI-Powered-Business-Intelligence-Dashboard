@@ -1,0 +1,2801 @@
+customer_id,signup_date,home_region,customer_segment,acquisition_channel
+C-00001,2023-06-23,South,New,Organic Search
+C-00002,2023-06-04,Central,Returning,Organic Search
+C-00003,2025-03-20,North,New,Organic Search
+C-00004,2026-03-23,North,New,Social
+C-00005,2025-11-27,East,New,Organic Search
+C-00006,2022-11-20,North,Returning,Paid Search
+C-00007,2024-05-29,Central,New,Paid Search
+C-00008,2023-05-15,South,New,Paid Search
+C-00009,2024-05-01,West,Returning,Email
+C-00010,2024-12-21,South,New,Social
+C-00011,2024-11-16,West,Returning,Organic Search
+C-00012,2024-02-16,Central,Returning,Marketplace
+C-00013,2023-06-01,East,New,Marketplace
+C-00014,2023-10-06,North,New,Organic Search
+C-00015,2023-04-02,North,Returning,Social
+C-00016,2023-10-07,South,Returning,Direct
+C-00017,2025-12-21,South,New,Social
+C-00018,2023-03-01,North,New,Paid Search
+C-00019,2024-05-08,Central,New,Email
+C-00020,2024-08-12,East,New,Marketplace
+C-00021,2025-06-03,North,New,Social
+C-00022,2025-11-14,East,New,Marketplace
+C-00023,2025-02-01,Central,New,Organic Search
+C-00024,2025-08-13,North,New,Organic Search
+C-00025,2023-09-30,South,Returning,Organic Search
+C-00026,2024-12-27,East,Returning,Organic Search
+C-00027,2025-12-14,North,Returning,Social
+C-00028,2025-11-10,West,Returning,Paid Search
+C-00029,2024-06-30,East,Returning,Direct
+C-00030,2024-04-29,West,VIP,Email
+C-00031,2023-06-12,South,Returning,Social
+C-00032,2026-04-07,South,New,Organic Search
+C-00033,2025-10-28,East,VIP,Email
+C-00034,2023-06-24,Central,VIP,Marketplace
+C-00035,2024-07-28,North,New,Email
+C-00036,2023-04-17,East,New,Organic Search
+C-00037,2025-11-01,North,Returning,Email
+C-00038,2025-12-06,East,New,Email
+C-00039,2024-01-14,West,VIP,Social
+C-00040,2024-08-06,West,New,Paid Search
+C-00041,2025-10-01,North,Returning,Organic Search
+C-00042,2022-12-20,North,Returning,Organic Search
+C-00043,2023-04-01,North,Returning,Organic Search
+C-00044,2023-01-10,North,Returning,Organic Search
+C-00045,2025-07-28,North,New,Direct
+C-00046,2026-01-19,North,Returning,Email
+C-00047,2025-02-17,North,New,Paid Search
+C-00048,2025-03-23,Central,New,Organic Search
+C-00049,2023-05-27,West,New,Marketplace
+C-00050,2023-06-18,North,New,Paid Search
+C-00051,2025-03-20,East,New,Marketplace
+C-00052,2023-04-10,Central,Returning,Email
+C-00053,2023-02-18,East,Returning,Organic Search
+C-00054,2023-05-17,West,VIP,Organic Search
+C-00055,2025-07-28,Central,Returning,Marketplace
+C-00056,2023-10-10,Central,New,Organic Search
+C-00057,2025-05-26,West,New,Social
+C-00058,2025-12-19,East,Returning,Organic Search
+C-00059,2024-01-26,East,VIP,Email
+C-00060,2024-08-10,East,New,Email
+C-00061,2025-10-29,Central,New,Organic Search
+C-00062,2023-11-22,North,New,Marketplace
+C-00063,2025-02-10,Central,New,Organic Search
+C-00064,2026-03-08,North,New,Social
+C-00065,2026-01-07,Central,Returning,Organic Search
+C-00066,2024-08-11,South,New,Social
+C-00067,2024-07-13,Central,Returning,Direct
+C-00068,2022-11-26,Central,Returning,Direct
+C-00069,2023-04-06,East,Returning,Organic Search
+C-00070,2024-10-21,Central,VIP,Paid Search
+C-00071,2023-09-26,East,Returning,Paid Search
+C-00072,2025-10-25,West,New,Paid Search
+C-00073,2023-06-07,North,VIP,Organic Search
+C-00074,2023-06-14,North,Returning,Paid Search
+C-00075,2024-01-12,North,Returning,Social
+C-00076,2024-04-30,South,Returning,Marketplace
+C-00077,2023-02-19,South,New,Organic Search
+C-00078,2022-11-14,North,New,Direct
+C-00079,2023-10-03,East,Returning,Paid Search
+C-00080,2022-11-26,Central,New,Social
+C-00081,2023-09-08,West,Returning,Email
+C-00082,2023-09-06,North,Returning,Paid Search
+C-00083,2023-01-27,North,VIP,Organic Search
+C-00084,2023-06-05,East,New,Marketplace
+C-00085,2023-09-19,North,VIP,Organic Search
+C-00086,2023-11-04,North,VIP,Social
+C-00087,2024-09-17,South,Returning,Social
+C-00088,2024-03-29,West,New,Organic Search
+C-00089,2023-01-25,North,Returning,Marketplace
+C-00090,2025-06-06,West,New,Marketplace
+C-00091,2024-02-06,North,New,Paid Search
+C-00092,2023-03-29,South,VIP,Social
+C-00093,2025-02-02,West,Returning,Paid Search
+C-00094,2023-01-02,Central,New,Organic Search
+C-00095,2024-05-03,East,New,Paid Search
+C-00096,2024-08-10,Central,Returning,Organic Search
+C-00097,2026-01-30,North,New,Paid Search
+C-00098,2025-10-06,East,VIP,Social
+C-00099,2023-12-15,North,New,Social
+C-00100,2024-09-13,West,Returning,Organic Search
+C-00101,2024-07-14,West,Returning,Paid Search
+C-00102,2024-07-04,North,Returning,Social
+C-00103,2024-12-22,Central,Returning,Email
+C-00104,2024-07-15,West,New,Paid Search
+C-00105,2024-01-11,East,Returning,Social
+C-00106,2025-06-16,West,Returning,Email
+C-00107,2023-10-20,South,Returning,Social
+C-00108,2026-04-28,West,New,Social
+C-00109,2024-08-03,North,New,Organic Search
+C-00110,2024-03-22,East,VIP,Social
+C-00111,2025-05-27,East,New,Organic Search
+C-00112,2025-01-01,North,Returning,Social
+C-00113,2022-11-18,Central,VIP,Marketplace
+C-00114,2025-03-26,West,New,Social
+C-00115,2025-06-15,North,New,Marketplace
+C-00116,2025-05-29,East,New,Email
+C-00117,2025-12-25,Central,Returning,Marketplace
+C-00118,2026-04-14,Central,Returning,Paid Search
+C-00119,2025-12-03,North,Returning,Marketplace
+C-00120,2025-05-16,North,New,Social
+C-00121,2025-10-09,North,Returning,Paid Search
+C-00122,2024-06-14,South,New,Marketplace
+C-00123,2023-04-21,North,New,Social
+C-00124,2024-01-19,South,New,Email
+C-00125,2025-03-07,West,New,Paid Search
+C-00126,2026-02-15,North,VIP,Marketplace
+C-00127,2026-01-29,North,New,Paid Search
+C-00128,2025-01-13,Central,Returning,Paid Search
+C-00129,2025-11-29,Central,Returning,Email
+C-00130,2024-05-18,North,Returning,Paid Search
+C-00131,2025-02-12,West,Returning,Direct
+C-00132,2025-11-04,South,New,Email
+C-00133,2023-01-01,South,New,Marketplace
+C-00134,2023-11-14,South,New,Organic Search
+C-00135,2024-09-06,Central,New,Organic Search
+C-00136,2025-03-19,North,New,Organic Search
+C-00137,2025-11-15,Central,New,Organic Search
+C-00138,2023-03-27,West,Returning,Social
+C-00139,2024-03-27,North,New,Organic Search
+C-00140,2023-07-23,North,Returning,Direct
+C-00141,2025-06-16,West,Returning,Organic Search
+C-00142,2026-04-03,West,VIP,Social
+C-00143,2023-10-08,North,VIP,Organic Search
+C-00144,2024-08-06,Central,Returning,Paid Search
+C-00145,2023-12-18,West,New,Social
+C-00146,2023-06-03,South,Returning,Social
+C-00147,2023-07-12,East,Returning,Organic Search
+C-00148,2025-11-02,South,Returning,Email
+C-00149,2024-10-05,South,New,Email
+C-00150,2025-04-12,West,VIP,Marketplace
+C-00151,2023-09-16,West,Returning,Direct
+C-00152,2024-05-13,Central,Returning,Social
+C-00153,2025-06-16,West,Returning,Organic Search
+C-00154,2024-03-23,North,Returning,Marketplace
+C-00155,2024-03-20,East,Returning,Social
+C-00156,2024-09-25,Central,New,Organic Search
+C-00157,2024-01-15,South,New,Organic Search
+C-00158,2026-03-11,South,Returning,Organic Search
+C-00159,2023-12-03,West,New,Email
+C-00160,2024-03-13,West,Returning,Email
+C-00161,2022-12-12,North,New,Social
+C-00162,2024-07-26,South,Returning,Email
+C-00163,2024-10-11,West,Returning,Paid Search
+C-00164,2025-05-24,South,New,Organic Search
+C-00165,2023-12-06,West,New,Direct
+C-00166,2023-11-21,West,New,Organic Search
+C-00167,2026-02-26,East,VIP,Paid Search
+C-00168,2023-05-31,South,Returning,Paid Search
+C-00169,2024-07-18,East,New,Organic Search
+C-00170,2023-02-26,West,Returning,Organic Search
+C-00171,2025-08-08,North,New,Paid Search
+C-00172,2025-07-14,North,Returning,Organic Search
+C-00173,2025-07-12,North,New,Email
+C-00174,2026-01-31,North,Returning,Organic Search
+C-00175,2026-01-02,North,VIP,Organic Search
+C-00176,2025-12-23,East,Returning,Marketplace
+C-00177,2024-02-12,South,Returning,Marketplace
+C-00178,2024-07-07,Central,Returning,Paid Search
+C-00179,2023-03-10,West,Returning,Direct
+C-00180,2024-01-06,South,Returning,Organic Search
+C-00181,2024-03-12,North,New,Organic Search
+C-00182,2025-05-17,East,Returning,Organic Search
+C-00183,2024-06-19,West,Returning,Paid Search
+C-00184,2024-02-28,West,VIP,Social
+C-00185,2023-12-17,East,Returning,Social
+C-00186,2024-05-04,North,Returning,Organic Search
+C-00187,2024-07-28,West,Returning,Direct
+C-00188,2025-04-24,West,New,Social
+C-00189,2024-05-17,East,Returning,Organic Search
+C-00190,2023-01-27,West,VIP,Email
+C-00191,2022-12-29,Central,New,Marketplace
+C-00192,2026-01-28,North,Returning,Social
+C-00193,2024-05-11,West,Returning,Organic Search
+C-00194,2025-10-04,Central,Returning,Organic Search
+C-00195,2026-02-17,West,Returning,Direct
+C-00196,2025-06-26,South,New,Social
+C-00197,2023-10-02,West,New,Paid Search
+C-00198,2025-02-04,East,Returning,Paid Search
+C-00199,2024-08-12,North,New,Social
+C-00200,2025-09-25,North,Returning,Marketplace
+C-00201,2025-06-10,North,New,Paid Search
+C-00202,2025-08-23,West,Returning,Organic Search
+C-00203,2025-12-05,South,New,Marketplace
+C-00204,2025-07-26,Central,New,Email
+C-00205,2024-03-11,South,Returning,Organic Search
+C-00206,2025-02-19,Central,New,Direct
+C-00207,2025-06-09,West,VIP,Organic Search
+C-00208,2024-06-26,South,Returning,Marketplace
+C-00209,2025-07-01,East,New,Paid Search
+C-00210,2026-03-18,Central,Returning,Marketplace
+C-00211,2024-05-25,Central,Returning,Paid Search
+C-00212,2025-09-11,North,New,Social
+C-00213,2026-02-21,West,Returning,Marketplace
+C-00214,2025-05-09,South,Returning,Email
+C-00215,2025-11-23,Central,New,Marketplace
+C-00216,2024-03-10,North,Returning,Social
+C-00217,2023-02-04,East,New,Direct
+C-00218,2024-12-26,West,New,Marketplace
+C-00219,2023-09-14,North,Returning,Email
+C-00220,2026-02-27,North,New,Marketplace
+C-00221,2023-05-30,East,Returning,Social
+C-00222,2025-02-23,Central,Returning,Organic Search
+C-00223,2024-05-02,West,New,Social
+C-00224,2024-09-09,Central,Returning,Paid Search
+C-00225,2024-08-16,Central,Returning,Email
+C-00226,2025-11-19,North,New,Social
+C-00227,2024-06-17,West,VIP,Paid Search
+C-00228,2023-05-27,West,Returning,Organic Search
+C-00229,2023-10-13,Central,Returning,Organic Search
+C-00230,2023-03-01,South,New,Organic Search
+C-00231,2025-10-29,West,New,Organic Search
+C-00232,2023-10-31,Central,New,Email
+C-00233,2024-03-14,East,Returning,Organic Search
+C-00234,2024-04-10,West,Returning,Marketplace
+C-00235,2025-06-16,West,VIP,Organic Search
+C-00236,2025-04-29,Central,VIP,Paid Search
+C-00237,2025-03-24,East,Returning,Paid Search
+C-00238,2025-01-02,North,Returning,Paid Search
+C-00239,2024-11-11,Central,Returning,Paid Search
+C-00240,2025-01-25,East,New,Social
+C-00241,2023-02-15,West,VIP,Marketplace
+C-00242,2024-06-15,North,Returning,Marketplace
+C-00243,2024-01-29,East,Returning,Social
+C-00244,2023-08-14,Central,Returning,Social
+C-00245,2024-07-31,North,Returning,Paid Search
+C-00246,2023-08-03,South,New,Social
+C-00247,2023-11-01,West,New,Marketplace
+C-00248,2024-11-25,Central,Returning,Marketplace
+C-00249,2024-04-16,Central,VIP,Direct
+C-00250,2024-07-03,South,Returning,Organic Search
+C-00251,2023-04-10,Central,New,Marketplace
+C-00252,2025-01-28,West,VIP,Paid Search
+C-00253,2025-01-23,East,New,Paid Search
+C-00254,2024-04-26,West,Returning,Direct
+C-00255,2023-06-16,East,Returning,Email
+C-00256,2025-12-30,East,New,Social
+C-00257,2025-06-14,South,VIP,Paid Search
+C-00258,2023-08-20,North,New,Direct
+C-00259,2023-07-02,Central,New,Organic Search
+C-00260,2025-05-24,Central,New,Social
+C-00261,2025-11-17,West,New,Organic Search
+C-00262,2025-03-05,West,Returning,Email
+C-00263,2024-06-01,South,New,Paid Search
+C-00264,2024-03-04,North,Returning,Social
+C-00265,2025-11-26,West,VIP,Organic Search
+C-00266,2024-05-25,North,New,Marketplace
+C-00267,2025-05-26,North,New,Social
+C-00268,2022-12-20,South,New,Direct
+C-00269,2026-01-06,West,New,Email
+C-00270,2026-02-19,Central,New,Paid Search
+C-00271,2023-09-05,East,Returning,Organic Search
+C-00272,2023-08-30,East,VIP,Marketplace
+C-00273,2023-06-20,North,Returning,Organic Search
+C-00274,2024-03-08,North,Returning,Organic Search
+C-00275,2023-07-24,East,Returning,Social
+C-00276,2025-07-09,South,Returning,Email
+C-00277,2025-05-20,Central,Returning,Organic Search
+C-00278,2025-10-09,West,New,Organic Search
+C-00279,2025-07-14,South,Returning,Organic Search
+C-00280,2025-05-03,North,New,Email
+C-00281,2023-03-21,East,New,Email
+C-00282,2024-09-02,East,New,Paid Search
+C-00283,2025-09-07,North,Returning,Social
+C-00284,2025-12-10,North,Returning,Paid Search
+C-00285,2024-02-17,West,New,Paid Search
+C-00286,2023-05-20,South,New,Organic Search
+C-00287,2023-09-15,East,Returning,Organic Search
+C-00288,2023-04-30,North,New,Social
+C-00289,2023-07-31,East,Returning,Email
+C-00290,2024-09-12,South,Returning,Marketplace
+C-00291,2025-03-22,West,Returning,Direct
+C-00292,2026-03-20,North,New,Email
+C-00293,2023-09-19,North,Returning,Organic Search
+C-00294,2025-12-20,West,New,Email
+C-00295,2025-04-03,Central,Returning,Marketplace
+C-00296,2026-04-16,East,Returning,Email
+C-00297,2024-05-07,South,New,Social
+C-00298,2024-10-02,North,New,Organic Search
+C-00299,2025-02-04,West,New,Direct
+C-00300,2023-05-13,North,Returning,Paid Search
+C-00301,2024-10-05,South,New,Paid Search
+C-00302,2026-01-12,Central,Returning,Organic Search
+C-00303,2026-04-25,North,New,Paid Search
+C-00304,2025-03-24,East,Returning,Organic Search
+C-00305,2025-09-21,South,New,Paid Search
+C-00306,2026-03-05,West,Returning,Organic Search
+C-00307,2025-01-24,North,VIP,Organic Search
+C-00308,2024-01-13,West,Returning,Paid Search
+C-00309,2023-07-10,West,New,Organic Search
+C-00310,2024-12-24,North,Returning,Email
+C-00311,2024-11-01,Central,New,Organic Search
+C-00312,2022-12-15,North,Returning,Paid Search
+C-00313,2025-04-04,West,Returning,Paid Search
+C-00314,2023-06-30,Central,New,Organic Search
+C-00315,2026-04-25,West,Returning,Paid Search
+C-00316,2025-04-19,North,Returning,Email
+C-00317,2025-10-15,Central,New,Social
+C-00318,2024-02-03,North,New,Email
+C-00319,2023-06-28,North,Returning,Social
+C-00320,2024-10-26,West,Returning,Marketplace
+C-00321,2024-03-04,South,New,Organic Search
+C-00322,2023-09-16,West,Returning,Organic Search
+C-00323,2025-08-14,East,Returning,Email
+C-00324,2026-01-06,Central,Returning,Paid Search
+C-00325,2024-08-15,North,New,Paid Search
+C-00326,2024-07-19,East,Returning,Paid Search
+C-00327,2023-04-07,East,New,Organic Search
+C-00328,2024-06-16,Central,New,Marketplace
+C-00329,2026-04-19,South,Returning,Email
+C-00330,2023-01-30,West,Returning,Social
+C-00331,2024-08-26,East,Returning,Direct
+C-00332,2025-05-17,Central,New,Paid Search
+C-00333,2023-04-28,North,Returning,Organic Search
+C-00334,2025-04-21,East,VIP,Email
+C-00335,2024-11-21,South,New,Paid Search
+C-00336,2024-09-29,North,Returning,Social
+C-00337,2024-09-22,North,New,Social
+C-00338,2024-06-10,Central,New,Direct
+C-00339,2026-03-25,South,Returning,Email
+C-00340,2023-08-23,South,VIP,Social
+C-00341,2025-01-17,West,New,Organic Search
+C-00342,2025-12-25,West,New,Marketplace
+C-00343,2025-10-20,West,New,Email
+C-00344,2022-12-14,North,New,Organic Search
+C-00345,2025-07-29,Central,New,Organic Search
+C-00346,2024-07-04,North,Returning,Social
+C-00347,2025-10-20,South,New,Social
+C-00348,2023-08-02,North,Returning,Organic Search
+C-00349,2023-10-12,North,Returning,Paid Search
+C-00350,2024-03-07,East,VIP,Social
+C-00351,2025-05-14,North,New,Direct
+C-00352,2025-06-24,North,VIP,Social
+C-00353,2026-01-18,East,VIP,Paid Search
+C-00354,2024-12-28,South,Returning,Organic Search
+C-00355,2023-12-20,North,Returning,Organic Search
+C-00356,2025-07-18,East,Returning,Organic Search
+C-00357,2025-09-28,South,Returning,Social
+C-00358,2024-05-18,East,Returning,Marketplace
+C-00359,2023-05-13,North,VIP,Paid Search
+C-00360,2024-10-22,South,VIP,Paid Search
+C-00361,2024-12-11,Central,New,Paid Search
+C-00362,2023-01-03,North,New,Social
+C-00363,2024-09-23,North,Returning,Paid Search
+C-00364,2025-07-01,North,Returning,Social
+C-00365,2025-05-13,Central,Returning,Organic Search
+C-00366,2024-01-22,East,Returning,Social
+C-00367,2025-10-22,West,Returning,Organic Search
+C-00368,2023-07-14,South,New,Marketplace
+C-00369,2025-05-31,West,New,Email
+C-00370,2025-11-08,East,New,Organic Search
+C-00371,2023-08-28,North,New,Paid Search
+C-00372,2026-01-18,West,New,Organic Search
+C-00373,2024-11-14,East,New,Email
+C-00374,2025-09-11,South,Returning,Email
+C-00375,2025-01-07,South,VIP,Organic Search
+C-00376,2023-03-25,West,New,Social
+C-00377,2026-02-10,South,Returning,Organic Search
+C-00378,2025-11-29,West,New,Marketplace
+C-00379,2025-06-15,East,VIP,Organic Search
+C-00380,2023-08-10,West,New,Paid Search
+C-00381,2024-06-29,West,New,Marketplace
+C-00382,2024-08-14,East,VIP,Direct
+C-00383,2025-11-23,North,Returning,Social
+C-00384,2024-06-14,West,New,Marketplace
+C-00385,2024-09-16,West,New,Paid Search
+C-00386,2025-02-03,Central,Returning,Paid Search
+C-00387,2023-11-24,East,Returning,Direct
+C-00388,2025-10-05,North,New,Paid Search
+C-00389,2025-04-06,West,Returning,Email
+C-00390,2024-08-25,South,New,Paid Search
+C-00391,2025-05-08,South,Returning,Social
+C-00392,2024-10-26,West,Returning,Direct
+C-00393,2026-04-19,South,VIP,Direct
+C-00394,2023-03-04,West,New,Paid Search
+C-00395,2023-09-30,North,VIP,Email
+C-00396,2025-04-22,North,New,Social
+C-00397,2024-11-26,Central,New,Organic Search
+C-00398,2023-09-17,Central,Returning,Paid Search
+C-00399,2023-04-13,East,Returning,Paid Search
+C-00400,2024-05-30,North,New,Social
+C-00401,2025-08-25,Central,Returning,Organic Search
+C-00402,2024-04-23,North,Returning,Email
+C-00403,2025-08-08,North,New,Organic Search
+C-00404,2023-10-26,East,VIP,Organic Search
+C-00405,2024-08-22,West,Returning,Email
+C-00406,2024-06-23,Central,VIP,Social
+C-00407,2023-10-29,East,Returning,Organic Search
+C-00408,2023-12-23,North,Returning,Email
+C-00409,2024-11-15,South,Returning,Marketplace
+C-00410,2025-12-10,Central,New,Organic Search
+C-00411,2025-01-30,West,VIP,Email
+C-00412,2025-02-22,North,Returning,Direct
+C-00413,2023-04-07,West,Returning,Paid Search
+C-00414,2025-12-10,North,Returning,Direct
+C-00415,2025-04-11,Central,Returning,Marketplace
+C-00416,2025-10-03,North,New,Paid Search
+C-00417,2024-02-11,Central,New,Marketplace
+C-00418,2023-04-17,West,New,Email
+C-00419,2023-07-21,East,Returning,Organic Search
+C-00420,2023-10-18,East,Returning,Organic Search
+C-00421,2026-03-30,Central,New,Organic Search
+C-00422,2023-01-04,Central,New,Social
+C-00423,2024-05-02,West,Returning,Paid Search
+C-00424,2023-01-08,East,Returning,Paid Search
+C-00425,2024-07-17,West,Returning,Social
+C-00426,2024-07-08,West,Returning,Organic Search
+C-00427,2025-03-07,North,Returning,Email
+C-00428,2024-08-08,South,Returning,Direct
+C-00429,2024-10-14,North,VIP,Paid Search
+C-00430,2025-12-31,North,New,Organic Search
+C-00431,2025-05-15,North,New,Paid Search
+C-00432,2025-01-01,South,Returning,Direct
+C-00433,2023-09-30,Central,Returning,Social
+C-00434,2023-11-30,East,Returning,Email
+C-00435,2025-08-24,East,Returning,Organic Search
+C-00436,2025-01-20,Central,Returning,Organic Search
+C-00437,2024-10-29,South,New,Email
+C-00438,2025-06-27,North,New,Organic Search
+C-00439,2023-08-08,West,VIP,Social
+C-00440,2024-11-25,North,New,Email
+C-00441,2024-11-18,North,Returning,Email
+C-00442,2025-12-07,Central,New,Social
+C-00443,2023-07-08,North,New,Paid Search
+C-00444,2024-10-01,South,Returning,Organic Search
+C-00445,2026-03-24,East,Returning,Organic Search
+C-00446,2023-08-14,West,Returning,Email
+C-00447,2023-09-08,East,Returning,Paid Search
+C-00448,2026-04-15,South,New,Email
+C-00449,2024-07-11,East,Returning,Email
+C-00450,2025-08-06,South,Returning,Marketplace
+C-00451,2024-11-30,North,New,Paid Search
+C-00452,2024-07-29,West,Returning,Social
+C-00453,2022-12-31,South,Returning,Social
+C-00454,2026-02-03,West,Returning,Email
+C-00455,2023-10-22,West,Returning,Social
+C-00456,2024-12-24,West,New,Organic Search
+C-00457,2023-06-20,East,New,Paid Search
+C-00458,2025-03-01,South,Returning,Social
+C-00459,2025-06-29,West,Returning,Organic Search
+C-00460,2023-08-16,East,Returning,Direct
+C-00461,2025-07-13,South,Returning,Organic Search
+C-00462,2025-11-02,South,New,Social
+C-00463,2024-05-01,North,Returning,Organic Search
+C-00464,2025-12-23,Central,New,Direct
+C-00465,2024-06-20,West,Returning,Email
+C-00466,2025-07-16,Central,New,Marketplace
+C-00467,2024-05-20,East,New,Email
+C-00468,2025-01-23,Central,Returning,Marketplace
+C-00469,2024-06-23,Central,New,Organic Search
+C-00470,2025-04-30,West,Returning,Organic Search
+C-00471,2025-11-14,East,New,Organic Search
+C-00472,2023-06-18,East,Returning,Organic Search
+C-00473,2025-10-29,North,New,Organic Search
+C-00474,2024-09-13,North,Returning,Social
+C-00475,2022-11-17,Central,VIP,Organic Search
+C-00476,2025-07-08,North,Returning,Direct
+C-00477,2024-08-25,North,New,Social
+C-00478,2026-01-25,West,New,Marketplace
+C-00479,2023-01-22,North,VIP,Marketplace
+C-00480,2023-11-02,North,VIP,Marketplace
+C-00481,2025-08-17,West,New,Marketplace
+C-00482,2024-06-21,North,Returning,Email
+C-00483,2023-06-14,South,VIP,Paid Search
+C-00484,2025-11-23,Central,Returning,Organic Search
+C-00485,2025-09-04,North,Returning,Organic Search
+C-00486,2023-10-05,West,Returning,Social
+C-00487,2022-12-05,West,Returning,Email
+C-00488,2023-12-07,Central,New,Marketplace
+C-00489,2025-03-31,North,Returning,Social
+C-00490,2023-11-20,East,VIP,Direct
+C-00491,2022-11-20,North,New,Social
+C-00492,2024-09-12,West,New,Organic Search
+C-00493,2024-11-12,North,Returning,Organic Search
+C-00494,2024-07-27,West,New,Direct
+C-00495,2024-08-04,West,Returning,Direct
+C-00496,2024-11-28,North,Returning,Organic Search
+C-00497,2023-09-16,Central,Returning,Paid Search
+C-00498,2025-12-05,West,VIP,Marketplace
+C-00499,2024-01-28,West,Returning,Email
+C-00500,2023-04-23,East,Returning,Paid Search
+C-00501,2026-01-05,West,New,Marketplace
+C-00502,2023-12-26,North,Returning,Paid Search
+C-00503,2025-10-07,West,Returning,Social
+C-00504,2025-08-04,East,New,Marketplace
+C-00505,2025-05-23,South,New,Email
+C-00506,2025-12-25,West,Returning,Social
+C-00507,2025-01-25,North,New,Organic Search
+C-00508,2023-04-05,South,New,Organic Search
+C-00509,2023-03-10,North,VIP,Direct
+C-00510,2023-01-10,North,New,Organic Search
+C-00511,2025-03-16,Central,New,Paid Search
+C-00512,2024-12-19,West,New,Social
+C-00513,2025-11-15,Central,New,Organic Search
+C-00514,2025-11-11,North,New,Direct
+C-00515,2022-11-14,Central,Returning,Email
+C-00516,2025-11-26,South,Returning,Organic Search
+C-00517,2025-06-07,South,New,Direct
+C-00518,2023-06-26,West,New,Email
+C-00519,2022-12-09,North,New,Email
+C-00520,2025-05-09,West,Returning,Organic Search
+C-00521,2023-02-05,North,New,Organic Search
+C-00522,2023-03-02,Central,New,Organic Search
+C-00523,2026-01-29,East,New,Social
+C-00524,2024-08-24,Central,New,Direct
+C-00525,2025-10-09,South,New,Organic Search
+C-00526,2026-03-02,Central,Returning,Social
+C-00527,2025-03-30,North,Returning,Paid Search
+C-00528,2024-12-26,South,Returning,Paid Search
+C-00529,2023-09-08,North,New,Email
+C-00530,2024-03-14,South,Returning,Social
+C-00531,2025-06-12,East,VIP,Direct
+C-00532,2025-12-22,South,Returning,Organic Search
+C-00533,2024-09-13,Central,Returning,Marketplace
+C-00534,2023-05-15,West,Returning,Organic Search
+C-00535,2024-12-18,East,Returning,Marketplace
+C-00536,2023-11-27,East,Returning,Social
+C-00537,2024-01-25,Central,Returning,Paid Search
+C-00538,2022-12-08,North,New,Social
+C-00539,2025-07-14,West,VIP,Social
+C-00540,2025-01-27,East,VIP,Social
+C-00541,2024-12-25,West,Returning,Paid Search
+C-00542,2024-11-12,East,Returning,Organic Search
+C-00543,2025-06-25,South,Returning,Organic Search
+C-00544,2024-08-08,East,New,Organic Search
+C-00545,2023-09-01,East,New,Email
+C-00546,2025-03-11,North,New,Organic Search
+C-00547,2026-01-16,East,Returning,Social
+C-00548,2024-09-28,West,New,Direct
+C-00549,2025-08-07,West,Returning,Paid Search
+C-00550,2023-08-20,East,Returning,Direct
+C-00551,2025-11-21,Central,VIP,Email
+C-00552,2023-04-08,West,VIP,Social
+C-00553,2025-02-28,West,New,Organic Search
+C-00554,2023-09-12,East,New,Paid Search
+C-00555,2026-04-25,Central,Returning,Direct
+C-00556,2025-08-02,East,New,Paid Search
+C-00557,2022-12-11,South,Returning,Direct
+C-00558,2022-12-12,West,Returning,Paid Search
+C-00559,2023-11-09,North,New,Organic Search
+C-00560,2023-12-05,South,Returning,Paid Search
+C-00561,2025-01-27,Central,New,Paid Search
+C-00562,2024-03-19,North,VIP,Social
+C-00563,2023-04-21,Central,Returning,Social
+C-00564,2023-05-17,South,New,Email
+C-00565,2022-11-26,North,Returning,Marketplace
+C-00566,2024-09-15,Central,Returning,Organic Search
+C-00567,2025-10-23,North,VIP,Marketplace
+C-00568,2026-01-10,North,Returning,Organic Search
+C-00569,2024-06-03,East,VIP,Organic Search
+C-00570,2024-08-12,North,New,Organic Search
+C-00571,2025-01-30,South,VIP,Email
+C-00572,2026-01-10,South,Returning,Marketplace
+C-00573,2024-09-16,West,New,Marketplace
+C-00574,2023-04-16,Central,Returning,Organic Search
+C-00575,2025-04-20,North,New,Email
+C-00576,2026-04-17,South,VIP,Social
+C-00577,2023-01-06,West,Returning,Paid Search
+C-00578,2024-02-17,Central,New,Paid Search
+C-00579,2026-02-18,North,Returning,Email
+C-00580,2024-03-25,North,Returning,Organic Search
+C-00581,2023-09-18,South,Returning,Organic Search
+C-00582,2022-11-17,East,VIP,Social
+C-00583,2023-06-04,North,New,Paid Search
+C-00584,2025-12-17,North,Returning,Organic Search
+C-00585,2025-12-16,East,New,Paid Search
+C-00586,2025-01-03,South,New,Social
+C-00587,2025-12-26,Central,VIP,Email
+C-00588,2023-10-20,North,Returning,Organic Search
+C-00589,2024-05-09,North,Returning,Paid Search
+C-00590,2025-03-18,West,New,Paid Search
+C-00591,2024-03-26,East,Returning,Email
+C-00592,2025-06-01,South,New,Direct
+C-00593,2024-09-17,South,Returning,Marketplace
+C-00594,2025-04-26,West,New,Marketplace
+C-00595,2026-03-08,South,New,Direct
+C-00596,2023-12-23,North,Returning,Paid Search
+C-00597,2024-08-21,West,New,Email
+C-00598,2026-01-29,South,Returning,Paid Search
+C-00599,2025-01-19,Central,New,Organic Search
+C-00600,2025-11-28,West,New,Organic Search
+C-00601,2025-06-09,North,VIP,Marketplace
+C-00602,2023-03-28,West,Returning,Paid Search
+C-00603,2025-08-25,South,New,Organic Search
+C-00604,2023-09-18,West,Returning,Organic Search
+C-00605,2026-03-15,South,Returning,Email
+C-00606,2025-03-12,West,Returning,Paid Search
+C-00607,2025-11-10,Central,Returning,Organic Search
+C-00608,2024-03-29,South,Returning,Social
+C-00609,2023-02-05,West,Returning,Social
+C-00610,2024-09-16,East,VIP,Organic Search
+C-00611,2024-04-19,West,New,Email
+C-00612,2026-01-28,South,New,Email
+C-00613,2026-02-24,North,Returning,Direct
+C-00614,2025-07-22,South,New,Direct
+C-00615,2023-07-02,West,Returning,Paid Search
+C-00616,2024-10-09,North,Returning,Email
+C-00617,2025-07-09,West,New,Paid Search
+C-00618,2023-03-24,West,New,Organic Search
+C-00619,2024-10-09,West,Returning,Organic Search
+C-00620,2024-03-20,East,Returning,Paid Search
+C-00621,2025-03-29,North,VIP,Paid Search
+C-00622,2023-11-19,West,New,Paid Search
+C-00623,2026-04-17,East,VIP,Paid Search
+C-00624,2022-11-16,North,Returning,Social
+C-00625,2023-03-15,West,Returning,Email
+C-00626,2024-11-25,East,New,Organic Search
+C-00627,2025-08-05,West,Returning,Email
+C-00628,2026-04-11,North,New,Paid Search
+C-00629,2025-06-01,West,Returning,Social
+C-00630,2024-07-08,East,VIP,Social
+C-00631,2024-08-09,South,New,Organic Search
+C-00632,2023-08-23,South,Returning,Organic Search
+C-00633,2024-12-31,East,Returning,Email
+C-00634,2023-10-27,East,Returning,Organic Search
+C-00635,2024-08-12,East,Returning,Marketplace
+C-00636,2022-11-26,North,Returning,Paid Search
+C-00637,2025-12-31,East,Returning,Social
+C-00638,2025-03-07,East,Returning,Organic Search
+C-00639,2026-01-07,West,New,Paid Search
+C-00640,2024-05-22,South,New,Marketplace
+C-00641,2026-01-08,West,Returning,Email
+C-00642,2023-06-26,South,Returning,Email
+C-00643,2024-11-27,West,Returning,Social
+C-00644,2025-04-28,Central,Returning,Organic Search
+C-00645,2024-03-27,Central,New,Paid Search
+C-00646,2024-10-20,North,Returning,Marketplace
+C-00647,2023-07-05,North,Returning,Marketplace
+C-00648,2026-02-23,Central,Returning,Email
+C-00649,2025-04-01,North,New,Organic Search
+C-00650,2024-01-04,East,Returning,Email
+C-00651,2026-03-13,South,Returning,Social
+C-00652,2024-06-21,Central,Returning,Email
+C-00653,2023-05-21,West,New,Paid Search
+C-00654,2023-03-08,Central,VIP,Organic Search
+C-00655,2023-08-05,West,New,Marketplace
+C-00656,2025-01-19,East,Returning,Organic Search
+C-00657,2025-03-04,North,New,Marketplace
+C-00658,2023-05-16,West,New,Social
+C-00659,2024-12-01,East,Returning,Email
+C-00660,2023-05-16,East,Returning,Social
+C-00661,2024-11-09,West,Returning,Paid Search
+C-00662,2025-04-04,East,Returning,Paid Search
+C-00663,2024-06-09,East,New,Email
+C-00664,2025-07-27,Central,Returning,Social
+C-00665,2023-02-09,West,New,Paid Search
+C-00666,2023-07-19,North,VIP,Paid Search
+C-00667,2025-04-01,West,New,Organic Search
+C-00668,2024-07-17,Central,New,Organic Search
+C-00669,2024-11-14,South,New,Marketplace
+C-00670,2023-10-11,East,New,Social
+C-00671,2024-02-29,North,Returning,Organic Search
+C-00672,2024-01-18,North,Returning,Organic Search
+C-00673,2025-05-06,West,New,Marketplace
+C-00674,2025-03-20,East,Returning,Organic Search
+C-00675,2023-05-08,North,Returning,Paid Search
+C-00676,2024-07-11,West,New,Social
+C-00677,2023-08-06,West,Returning,Organic Search
+C-00678,2026-01-03,West,New,Paid Search
+C-00679,2024-01-17,North,Returning,Paid Search
+C-00680,2025-05-01,North,Returning,Organic Search
+C-00681,2023-07-17,South,Returning,Direct
+C-00682,2024-08-12,North,Returning,Social
+C-00683,2024-03-29,East,Returning,Email
+C-00684,2022-12-31,West,Returning,Paid Search
+C-00685,2025-10-02,North,Returning,Paid Search
+C-00686,2023-02-26,West,Returning,Organic Search
+C-00687,2025-01-05,East,New,Email
+C-00688,2025-10-23,North,VIP,Paid Search
+C-00689,2024-08-16,Central,New,Email
+C-00690,2024-11-24,North,Returning,Email
+C-00691,2023-04-05,North,New,Organic Search
+C-00692,2023-01-27,Central,VIP,Paid Search
+C-00693,2024-06-15,East,Returning,Paid Search
+C-00694,2025-02-07,East,New,Email
+C-00695,2024-05-28,North,New,Direct
+C-00696,2023-09-21,South,Returning,Social
+C-00697,2023-03-22,East,New,Direct
+C-00698,2024-03-09,North,New,Paid Search
+C-00699,2025-05-23,North,Returning,Social
+C-00700,2023-11-01,West,New,Social
+C-00701,2023-10-08,South,Returning,Email
+C-00702,2024-04-20,North,New,Marketplace
+C-00703,2024-05-10,North,Returning,Marketplace
+C-00704,2024-09-23,South,Returning,Organic Search
+C-00705,2026-01-30,East,Returning,Email
+C-00706,2023-02-28,East,Returning,Paid Search
+C-00707,2024-04-12,Central,Returning,Social
+C-00708,2023-07-01,East,New,Organic Search
+C-00709,2022-12-02,East,New,Paid Search
+C-00710,2023-09-10,Central,New,Organic Search
+C-00711,2025-03-14,North,New,Direct
+C-00712,2024-08-23,North,New,Paid Search
+C-00713,2025-08-31,North,Returning,Organic Search
+C-00714,2025-09-28,Central,VIP,Organic Search
+C-00715,2025-06-16,West,Returning,Paid Search
+C-00716,2023-05-02,North,Returning,Organic Search
+C-00717,2026-01-04,West,Returning,Organic Search
+C-00718,2024-11-30,East,Returning,Social
+C-00719,2023-12-12,East,Returning,Marketplace
+C-00720,2023-09-11,South,New,Organic Search
+C-00721,2024-10-16,West,Returning,Organic Search
+C-00722,2024-09-23,West,New,Marketplace
+C-00723,2024-07-28,East,New,Organic Search
+C-00724,2025-08-10,Central,VIP,Organic Search
+C-00725,2024-06-02,Central,New,Marketplace
+C-00726,2025-10-06,Central,New,Paid Search
+C-00727,2023-04-29,East,Returning,Social
+C-00728,2025-01-22,East,New,Paid Search
+C-00729,2023-08-01,South,New,Paid Search
+C-00730,2025-01-19,West,Returning,Paid Search
+C-00731,2024-05-16,Central,New,Organic Search
+C-00732,2026-02-16,North,New,Paid Search
+C-00733,2024-08-11,East,New,Direct
+C-00734,2024-01-06,East,Returning,Marketplace
+C-00735,2023-05-11,West,New,Marketplace
+C-00736,2026-03-26,West,New,Paid Search
+C-00737,2023-05-12,Central,Returning,Paid Search
+C-00738,2023-02-15,South,Returning,Direct
+C-00739,2023-01-09,Central,VIP,Email
+C-00740,2025-12-07,East,New,Marketplace
+C-00741,2023-08-20,North,New,Marketplace
+C-00742,2024-02-05,West,New,Paid Search
+C-00743,2023-04-28,South,Returning,Marketplace
+C-00744,2022-12-21,North,VIP,Social
+C-00745,2023-07-28,West,New,Marketplace
+C-00746,2023-07-15,East,New,Organic Search
+C-00747,2026-01-25,West,Returning,Email
+C-00748,2024-12-29,North,Returning,Organic Search
+C-00749,2023-11-25,East,New,Organic Search
+C-00750,2026-04-17,North,Returning,Paid Search
+C-00751,2025-02-27,East,VIP,Organic Search
+C-00752,2024-12-30,North,New,Marketplace
+C-00753,2025-10-18,Central,New,Email
+C-00754,2022-12-16,West,VIP,Paid Search
+C-00755,2025-11-26,South,Returning,Email
+C-00756,2024-08-26,North,New,Paid Search
+C-00757,2024-01-29,West,New,Paid Search
+C-00758,2025-06-30,West,Returning,Direct
+C-00759,2023-09-29,West,New,Organic Search
+C-00760,2023-03-01,Central,Returning,Email
+C-00761,2025-01-10,West,New,Marketplace
+C-00762,2023-11-02,South,New,Social
+C-00763,2024-11-10,North,VIP,Social
+C-00764,2026-01-12,East,Returning,Organic Search
+C-00765,2025-08-11,North,Returning,Organic Search
+C-00766,2023-03-02,North,New,Email
+C-00767,2022-11-08,East,New,Marketplace
+C-00768,2024-10-04,Central,Returning,Marketplace
+C-00769,2024-08-30,North,New,Social
+C-00770,2023-08-24,West,Returning,Marketplace
+C-00771,2023-04-04,Central,New,Paid Search
+C-00772,2023-06-01,South,New,Direct
+C-00773,2025-04-19,Central,Returning,Social
+C-00774,2023-10-29,East,Returning,Marketplace
+C-00775,2026-04-16,North,Returning,Email
+C-00776,2023-11-01,West,New,Paid Search
+C-00777,2023-11-05,Central,Returning,Direct
+C-00778,2025-01-16,West,Returning,Email
+C-00779,2023-11-14,Central,Returning,Direct
+C-00780,2024-02-02,North,Returning,Email
+C-00781,2024-09-15,North,Returning,Direct
+C-00782,2023-10-16,Central,Returning,Marketplace
+C-00783,2024-09-24,South,Returning,Organic Search
+C-00784,2023-03-25,West,New,Social
+C-00785,2023-02-13,West,New,Direct
+C-00786,2025-03-03,South,Returning,Email
+C-00787,2023-06-02,West,Returning,Email
+C-00788,2024-02-11,North,New,Marketplace
+C-00789,2024-07-02,South,New,Organic Search
+C-00790,2024-10-07,South,New,Social
+C-00791,2025-12-01,Central,VIP,Paid Search
+C-00792,2026-04-16,West,VIP,Paid Search
+C-00793,2023-10-10,East,Returning,Organic Search
+C-00794,2024-09-15,North,New,Social
+C-00795,2025-11-17,South,New,Organic Search
+C-00796,2023-02-16,East,New,Email
+C-00797,2023-02-26,South,New,Paid Search
+C-00798,2026-03-20,North,Returning,Organic Search
+C-00799,2024-06-26,East,VIP,Organic Search
+C-00800,2025-01-29,Central,Returning,Organic Search
+C-00801,2025-11-25,South,New,Paid Search
+C-00802,2023-11-24,South,Returning,Email
+C-00803,2024-02-13,East,Returning,Organic Search
+C-00804,2023-05-24,South,New,Email
+C-00805,2026-02-26,North,New,Paid Search
+C-00806,2025-10-12,East,New,Marketplace
+C-00807,2025-07-06,North,Returning,Paid Search
+C-00808,2025-01-23,West,VIP,Email
+C-00809,2025-09-30,West,Returning,Social
+C-00810,2023-07-11,East,VIP,Direct
+C-00811,2023-10-15,West,VIP,Organic Search
+C-00812,2025-03-23,West,New,Organic Search
+C-00813,2023-09-05,South,Returning,Direct
+C-00814,2023-03-24,East,New,Email
+C-00815,2024-05-25,Central,Returning,Organic Search
+C-00816,2026-02-22,South,Returning,Paid Search
+C-00817,2023-09-06,East,Returning,Direct
+C-00818,2023-05-31,East,VIP,Organic Search
+C-00819,2024-06-14,Central,Returning,Marketplace
+C-00820,2024-04-30,East,New,Email
+C-00821,2023-01-22,South,New,Email
+C-00822,2025-02-06,Central,New,Paid Search
+C-00823,2024-03-07,East,New,Organic Search
+C-00824,2024-12-08,West,New,Paid Search
+C-00825,2024-06-03,Central,Returning,Social
+C-00826,2024-02-16,Central,New,Paid Search
+C-00827,2024-08-25,South,New,Social
+C-00828,2023-11-26,Central,Returning,Paid Search
+C-00829,2025-07-26,Central,Returning,Marketplace
+C-00830,2025-09-27,North,Returning,Social
+C-00831,2025-02-10,Central,New,Marketplace
+C-00832,2023-01-05,Central,New,Organic Search
+C-00833,2023-03-05,East,New,Direct
+C-00834,2023-12-19,West,New,Email
+C-00835,2023-07-18,North,Returning,Email
+C-00836,2025-05-08,Central,New,Email
+C-00837,2024-10-23,West,New,Organic Search
+C-00838,2023-05-11,South,New,Organic Search
+C-00839,2026-01-21,North,Returning,Organic Search
+C-00840,2024-02-11,South,Returning,Paid Search
+C-00841,2022-12-18,Central,Returning,Social
+C-00842,2025-07-04,West,VIP,Email
+C-00843,2022-11-24,East,New,Direct
+C-00844,2024-05-23,South,Returning,Paid Search
+C-00845,2024-04-06,South,New,Email
+C-00846,2025-01-28,North,Returning,Direct
+C-00847,2024-12-12,East,Returning,Paid Search
+C-00848,2023-06-16,South,Returning,Organic Search
+C-00849,2024-09-02,South,Returning,Social
+C-00850,2024-07-10,East,New,Organic Search
+C-00851,2023-03-03,West,Returning,Email
+C-00852,2024-08-22,West,Returning,Social
+C-00853,2024-07-04,South,New,Paid Search
+C-00854,2023-01-18,Central,Returning,Marketplace
+C-00855,2024-10-09,North,Returning,Email
+C-00856,2025-07-08,West,VIP,Email
+C-00857,2023-10-21,Central,Returning,Organic Search
+C-00858,2023-05-25,West,Returning,Social
+C-00859,2025-12-25,North,Returning,Social
+C-00860,2024-09-24,North,Returning,Organic Search
+C-00861,2024-07-27,Central,Returning,Paid Search
+C-00862,2026-02-18,Central,New,Email
+C-00863,2026-02-14,East,Returning,Email
+C-00864,2023-12-10,Central,Returning,Paid Search
+C-00865,2024-07-10,Central,New,Organic Search
+C-00866,2023-12-22,Central,New,Marketplace
+C-00867,2025-06-01,Central,New,Organic Search
+C-00868,2023-04-21,West,Returning,Organic Search
+C-00869,2023-03-05,South,New,Social
+C-00870,2023-10-18,North,Returning,Marketplace
+C-00871,2023-05-06,East,New,Paid Search
+C-00872,2025-04-03,South,VIP,Organic Search
+C-00873,2023-12-20,Central,Returning,Marketplace
+C-00874,2025-10-29,West,New,Social
+C-00875,2024-03-30,Central,New,Paid Search
+C-00876,2023-06-05,East,New,Organic Search
+C-00877,2023-02-08,South,New,Social
+C-00878,2026-03-12,East,Returning,Social
+C-00879,2023-08-08,Central,New,Paid Search
+C-00880,2023-11-27,Central,New,Marketplace
+C-00881,2022-12-16,West,New,Organic Search
+C-00882,2022-12-21,North,Returning,Paid Search
+C-00883,2023-01-22,West,New,Social
+C-00884,2023-02-14,North,Returning,Organic Search
+C-00885,2022-12-17,North,New,Paid Search
+C-00886,2023-07-18,East,Returning,Organic Search
+C-00887,2022-11-26,West,New,Social
+C-00888,2024-05-12,West,Returning,Paid Search
+C-00889,2023-06-09,East,Returning,Paid Search
+C-00890,2023-06-12,East,Returning,Social
+C-00891,2025-10-13,South,VIP,Paid Search
+C-00892,2023-10-01,East,New,Organic Search
+C-00893,2025-07-18,North,New,Social
+C-00894,2023-06-21,West,Returning,Organic Search
+C-00895,2023-05-10,North,Returning,Social
+C-00896,2024-04-14,East,Returning,Direct
+C-00897,2024-04-30,North,Returning,Organic Search
+C-00898,2023-01-26,South,Returning,Social
+C-00899,2025-03-28,North,Returning,Social
+C-00900,2023-02-08,North,New,Social
+C-00901,2024-09-10,East,New,Social
+C-00902,2023-05-16,South,New,Organic Search
+C-00903,2025-02-03,South,VIP,Paid Search
+C-00904,2025-07-13,West,Returning,Marketplace
+C-00905,2023-06-26,West,New,Direct
+C-00906,2023-09-29,Central,New,Email
+C-00907,2026-01-15,North,Returning,Paid Search
+C-00908,2024-11-10,Central,Returning,Marketplace
+C-00909,2023-08-01,East,Returning,Marketplace
+C-00910,2025-04-27,South,New,Paid Search
+C-00911,2025-10-16,East,Returning,Email
+C-00912,2024-09-29,West,Returning,Email
+C-00913,2025-04-11,North,Returning,Paid Search
+C-00914,2025-01-03,West,New,Marketplace
+C-00915,2026-04-15,West,New,Organic Search
+C-00916,2025-06-25,Central,Returning,Organic Search
+C-00917,2025-08-09,South,New,Organic Search
+C-00918,2025-09-10,West,New,Paid Search
+C-00919,2024-03-02,East,New,Email
+C-00920,2023-05-06,East,Returning,Organic Search
+C-00921,2025-08-21,North,Returning,Paid Search
+C-00922,2023-01-19,North,Returning,Organic Search
+C-00923,2026-03-28,West,VIP,Marketplace
+C-00924,2026-01-01,West,New,Direct
+C-00925,2024-11-20,West,Returning,Marketplace
+C-00926,2024-09-16,East,Returning,Email
+C-00927,2024-11-20,North,Returning,Social
+C-00928,2024-02-04,South,New,Social
+C-00929,2024-06-26,South,Returning,Organic Search
+C-00930,2023-10-09,West,Returning,Social
+C-00931,2025-02-22,East,New,Organic Search
+C-00932,2025-01-19,West,New,Organic Search
+C-00933,2024-09-29,South,New,Direct
+C-00934,2026-02-24,Central,New,Paid Search
+C-00935,2026-02-25,North,VIP,Email
+C-00936,2025-10-28,East,Returning,Paid Search
+C-00937,2026-02-17,East,Returning,Direct
+C-00938,2023-11-04,North,Returning,Marketplace
+C-00939,2023-06-07,East,New,Marketplace
+C-00940,2025-09-04,South,VIP,Email
+C-00941,2024-03-29,Central,New,Direct
+C-00942,2025-05-22,North,Returning,Email
+C-00943,2025-09-21,West,New,Marketplace
+C-00944,2025-12-14,North,Returning,Social
+C-00945,2024-06-24,Central,Returning,Organic Search
+C-00946,2023-11-06,West,Returning,Paid Search
+C-00947,2023-07-01,East,Returning,Email
+C-00948,2025-03-10,Central,Returning,Email
+C-00949,2025-03-21,East,Returning,Organic Search
+C-00950,2023-08-31,North,New,Organic Search
+C-00951,2023-10-02,West,VIP,Organic Search
+C-00952,2023-03-14,South,Returning,Social
+C-00953,2023-01-12,East,New,Email
+C-00954,2025-12-31,West,Returning,Email
+C-00955,2024-03-07,West,Returning,Social
+C-00956,2023-02-11,South,VIP,Direct
+C-00957,2024-08-08,North,VIP,Social
+C-00958,2023-12-27,West,Returning,Marketplace
+C-00959,2024-02-11,West,VIP,Social
+C-00960,2026-02-24,East,Returning,Social
+C-00961,2023-12-08,North,New,Social
+C-00962,2023-11-24,West,VIP,Organic Search
+C-00963,2023-01-29,East,Returning,Organic Search
+C-00964,2026-02-15,North,Returning,Email
+C-00965,2023-09-20,Central,New,Email
+C-00966,2026-04-20,South,Returning,Marketplace
+C-00967,2025-12-07,West,New,Paid Search
+C-00968,2024-01-31,East,VIP,Marketplace
+C-00969,2023-09-29,East,New,Organic Search
+C-00970,2024-02-03,West,VIP,Paid Search
+C-00971,2024-06-30,West,New,Email
+C-00972,2025-12-30,Central,Returning,Organic Search
+C-00973,2024-10-15,Central,Returning,Email
+C-00974,2024-03-20,West,VIP,Paid Search
+C-00975,2023-06-27,East,New,Paid Search
+C-00976,2025-09-30,South,Returning,Marketplace
+C-00977,2025-05-07,South,Returning,Social
+C-00978,2024-08-24,Central,Returning,Organic Search
+C-00979,2025-11-12,East,Returning,Organic Search
+C-00980,2024-01-17,South,Returning,Organic Search
+C-00981,2025-11-12,Central,Returning,Social
+C-00982,2025-04-16,Central,Returning,Social
+C-00983,2023-09-17,West,New,Organic Search
+C-00984,2023-04-06,West,New,Email
+C-00985,2026-01-27,Central,Returning,Paid Search
+C-00986,2025-05-18,East,Returning,Organic Search
+C-00987,2023-07-07,West,Returning,Email
+C-00988,2026-02-18,West,New,Paid Search
+C-00989,2025-09-01,West,New,Paid Search
+C-00990,2023-05-03,Central,New,Paid Search
+C-00991,2023-01-09,East,Returning,Organic Search
+C-00992,2025-01-15,West,Returning,Paid Search
+C-00993,2023-08-29,Central,New,Direct
+C-00994,2024-12-10,North,VIP,Marketplace
+C-00995,2023-08-23,North,New,Email
+C-00996,2025-11-11,North,Returning,Organic Search
+C-00997,2024-10-11,Central,New,Marketplace
+C-00998,2023-08-25,North,New,Marketplace
+C-00999,2023-12-09,West,New,Email
+C-01000,2023-02-26,Central,Returning,Direct
+C-01001,2025-06-08,North,Returning,Social
+C-01002,2024-04-03,West,New,Email
+C-01003,2024-09-14,West,New,Organic Search
+C-01004,2024-06-12,Central,Returning,Paid Search
+C-01005,2025-05-17,West,New,Social
+C-01006,2023-09-15,South,Returning,Paid Search
+C-01007,2025-04-02,South,New,Marketplace
+C-01008,2025-04-18,South,New,Social
+C-01009,2024-09-16,East,Returning,Paid Search
+C-01010,2024-07-24,North,Returning,Social
+C-01011,2023-04-23,Central,Returning,Organic Search
+C-01012,2025-11-14,West,New,Social
+C-01013,2023-04-10,West,VIP,Social
+C-01014,2026-02-10,West,Returning,Organic Search
+C-01015,2023-01-21,East,Returning,Direct
+C-01016,2025-06-30,North,Returning,Paid Search
+C-01017,2026-02-26,South,Returning,Email
+C-01018,2025-09-17,South,New,Organic Search
+C-01019,2024-03-10,West,Returning,Email
+C-01020,2023-10-12,North,Returning,Organic Search
+C-01021,2026-01-09,West,VIP,Direct
+C-01022,2025-07-24,North,VIP,Social
+C-01023,2024-02-24,South,New,Organic Search
+C-01024,2024-01-04,West,Returning,Paid Search
+C-01025,2025-05-26,North,VIP,Social
+C-01026,2023-06-06,East,Returning,Marketplace
+C-01027,2024-04-29,East,Returning,Paid Search
+C-01028,2024-12-21,West,New,Marketplace
+C-01029,2025-09-30,Central,New,Organic Search
+C-01030,2025-02-15,Central,New,Email
+C-01031,2025-07-21,North,VIP,Marketplace
+C-01032,2025-04-25,North,New,Social
+C-01033,2024-01-14,North,New,Email
+C-01034,2023-07-07,South,Returning,Paid Search
+C-01035,2023-06-27,East,Returning,Organic Search
+C-01036,2023-10-03,South,Returning,Organic Search
+C-01037,2023-07-26,North,Returning,Social
+C-01038,2023-01-26,North,VIP,Organic Search
+C-01039,2023-11-10,South,Returning,Direct
+C-01040,2022-12-15,West,Returning,Marketplace
+C-01041,2023-05-01,East,New,Email
+C-01042,2025-07-20,West,New,Email
+C-01043,2026-02-12,North,Returning,Social
+C-01044,2024-05-01,West,New,Direct
+C-01045,2026-03-12,North,Returning,Paid Search
+C-01046,2023-06-17,East,New,Marketplace
+C-01047,2025-03-15,East,Returning,Organic Search
+C-01048,2026-04-19,Central,Returning,Email
+C-01049,2023-07-05,West,New,Marketplace
+C-01050,2025-11-15,Central,Returning,Social
+C-01051,2025-04-08,South,Returning,Organic Search
+C-01052,2025-10-27,Central,Returning,Email
+C-01053,2024-12-26,West,New,Marketplace
+C-01054,2026-01-29,North,New,Email
+C-01055,2024-02-26,North,VIP,Email
+C-01056,2025-11-24,North,New,Social
+C-01057,2022-11-21,North,Returning,Organic Search
+C-01058,2024-01-01,South,Returning,Paid Search
+C-01059,2023-09-19,East,Returning,Organic Search
+C-01060,2025-11-08,South,Returning,Organic Search
+C-01061,2025-01-28,South,Returning,Marketplace
+C-01062,2025-07-22,East,New,Email
+C-01063,2024-07-27,West,Returning,Paid Search
+C-01064,2023-08-16,West,Returning,Social
+C-01065,2025-05-09,Central,Returning,Organic Search
+C-01066,2025-09-13,South,New,Email
+C-01067,2023-02-21,Central,New,Organic Search
+C-01068,2023-05-12,East,Returning,Email
+C-01069,2023-05-06,North,New,Organic Search
+C-01070,2023-01-23,Central,Returning,Paid Search
+C-01071,2025-10-09,Central,New,Organic Search
+C-01072,2023-10-31,East,Returning,Organic Search
+C-01073,2025-10-03,North,New,Email
+C-01074,2025-09-28,East,Returning,Social
+C-01075,2024-11-12,North,New,Organic Search
+C-01076,2024-05-25,South,Returning,Paid Search
+C-01077,2026-02-19,North,New,Social
+C-01078,2023-05-10,West,Returning,Email
+C-01079,2026-02-12,Central,New,Organic Search
+C-01080,2026-04-01,East,VIP,Paid Search
+C-01081,2022-11-16,South,New,Organic Search
+C-01082,2023-04-04,South,Returning,Organic Search
+C-01083,2025-09-23,Central,VIP,Marketplace
+C-01084,2026-01-27,East,New,Paid Search
+C-01085,2025-07-24,West,Returning,Direct
+C-01086,2025-06-03,Central,Returning,Marketplace
+C-01087,2025-07-21,North,New,Social
+C-01088,2024-02-01,North,Returning,Paid Search
+C-01089,2024-10-30,North,Returning,Marketplace
+C-01090,2024-03-29,South,New,Social
+C-01091,2024-10-07,Central,New,Email
+C-01092,2024-10-31,East,New,Organic Search
+C-01093,2023-12-01,North,Returning,Social
+C-01094,2024-05-03,North,New,Organic Search
+C-01095,2026-04-26,West,New,Organic Search
+C-01096,2023-04-16,West,Returning,Email
+C-01097,2025-11-19,West,VIP,Paid Search
+C-01098,2024-08-13,Central,Returning,Marketplace
+C-01099,2024-05-22,Central,Returning,Direct
+C-01100,2024-06-02,West,New,Organic Search
+C-01101,2025-10-18,East,Returning,Email
+C-01102,2025-09-01,Central,New,Social
+C-01103,2025-05-31,West,VIP,Email
+C-01104,2022-11-24,North,New,Email
+C-01105,2024-09-03,Central,New,Organic Search
+C-01106,2024-04-28,East,New,Email
+C-01107,2024-11-25,South,New,Paid Search
+C-01108,2024-12-08,South,New,Paid Search
+C-01109,2026-01-20,East,New,Organic Search
+C-01110,2023-05-30,West,Returning,Email
+C-01111,2024-12-26,West,New,Social
+C-01112,2025-07-02,North,Returning,Email
+C-01113,2025-09-30,South,Returning,Email
+C-01114,2024-04-03,East,Returning,Paid Search
+C-01115,2023-10-07,West,New,Email
+C-01116,2023-05-23,South,Returning,Paid Search
+C-01117,2025-12-28,West,Returning,Paid Search
+C-01118,2025-02-27,Central,New,Direct
+C-01119,2023-12-19,West,Returning,Email
+C-01120,2024-06-11,West,New,Email
+C-01121,2025-05-10,South,VIP,Paid Search
+C-01122,2023-08-30,West,Returning,Direct
+C-01123,2025-03-19,East,Returning,Marketplace
+C-01124,2023-04-02,South,New,Paid Search
+C-01125,2024-06-25,East,Returning,Paid Search
+C-01126,2025-05-06,Central,Returning,Social
+C-01127,2025-10-08,South,VIP,Organic Search
+C-01128,2022-12-24,North,New,Organic Search
+C-01129,2023-04-19,South,New,Organic Search
+C-01130,2025-07-03,North,Returning,Paid Search
+C-01131,2023-04-26,East,New,Organic Search
+C-01132,2025-01-13,North,New,Paid Search
+C-01133,2023-07-23,West,New,Organic Search
+C-01134,2024-11-06,South,Returning,Email
+C-01135,2025-11-18,East,VIP,Organic Search
+C-01136,2025-11-15,East,New,Social
+C-01137,2026-01-05,West,Returning,Email
+C-01138,2024-10-18,North,Returning,Organic Search
+C-01139,2024-07-29,South,New,Paid Search
+C-01140,2022-11-07,West,Returning,Organic Search
+C-01141,2024-06-16,North,Returning,Direct
+C-01142,2025-07-11,West,New,Marketplace
+C-01143,2026-03-13,North,New,Paid Search
+C-01144,2025-02-27,East,VIP,Organic Search
+C-01145,2025-01-13,North,Returning,Organic Search
+C-01146,2024-03-11,West,Returning,Email
+C-01147,2024-05-16,West,New,Marketplace
+C-01148,2025-03-01,North,New,Organic Search
+C-01149,2023-06-21,East,Returning,Organic Search
+C-01150,2025-08-10,North,New,Organic Search
+C-01151,2025-11-06,Central,New,Paid Search
+C-01152,2023-07-21,West,Returning,Organic Search
+C-01153,2023-09-11,North,New,Paid Search
+C-01154,2025-08-23,East,VIP,Marketplace
+C-01155,2024-09-13,West,New,Organic Search
+C-01156,2024-05-05,North,Returning,Email
+C-01157,2023-12-05,South,VIP,Paid Search
+C-01158,2022-12-02,West,New,Organic Search
+C-01159,2025-05-02,Central,New,Organic Search
+C-01160,2023-05-18,Central,Returning,Email
+C-01161,2024-08-07,North,VIP,Social
+C-01162,2025-12-06,South,Returning,Social
+C-01163,2023-12-18,North,New,Social
+C-01164,2023-06-26,East,New,Organic Search
+C-01165,2024-05-25,South,Returning,Organic Search
+C-01166,2023-02-01,West,Returning,Social
+C-01167,2023-09-20,North,New,Organic Search
+C-01168,2023-05-13,South,Returning,Direct
+C-01169,2023-03-09,West,New,Social
+C-01170,2023-06-14,North,New,Direct
+C-01171,2024-10-18,East,Returning,Organic Search
+C-01172,2024-12-19,North,New,Marketplace
+C-01173,2025-07-27,East,Returning,Email
+C-01174,2025-08-06,North,New,Paid Search
+C-01175,2025-06-23,West,New,Direct
+C-01176,2025-12-16,East,New,Paid Search
+C-01177,2024-04-29,East,Returning,Social
+C-01178,2025-09-08,North,New,Organic Search
+C-01179,2024-11-21,North,Returning,Social
+C-01180,2025-11-14,North,Returning,Social
+C-01181,2025-12-10,South,New,Paid Search
+C-01182,2024-08-27,East,New,Organic Search
+C-01183,2023-07-30,North,New,Organic Search
+C-01184,2023-12-04,East,New,Marketplace
+C-01185,2025-08-06,West,Returning,Organic Search
+C-01186,2024-11-26,West,New,Organic Search
+C-01187,2024-01-08,Central,Returning,Marketplace
+C-01188,2025-06-22,North,Returning,Email
+C-01189,2025-03-07,West,Returning,Organic Search
+C-01190,2026-04-23,North,New,Organic Search
+C-01191,2024-07-21,North,New,Email
+C-01192,2023-06-02,East,Returning,Organic Search
+C-01193,2025-10-19,East,Returning,Direct
+C-01194,2025-12-24,South,Returning,Organic Search
+C-01195,2026-01-30,East,New,Social
+C-01196,2023-06-08,North,New,Paid Search
+C-01197,2024-09-28,East,Returning,Email
+C-01198,2024-10-28,East,VIP,Direct
+C-01199,2024-12-07,West,New,Marketplace
+C-01200,2024-08-30,East,Returning,Organic Search
+C-01201,2025-12-07,South,VIP,Direct
+C-01202,2025-05-11,North,VIP,Organic Search
+C-01203,2024-06-11,East,Returning,Direct
+C-01204,2024-07-17,Central,New,Organic Search
+C-01205,2024-08-12,West,New,Social
+C-01206,2024-05-25,East,VIP,Email
+C-01207,2026-01-20,North,New,Paid Search
+C-01208,2023-08-17,Central,New,Organic Search
+C-01209,2024-04-14,North,Returning,Paid Search
+C-01210,2024-01-26,West,Returning,Marketplace
+C-01211,2023-10-27,Central,Returning,Social
+C-01212,2023-05-21,South,Returning,Social
+C-01213,2026-01-30,West,New,Direct
+C-01214,2024-09-21,West,New,Paid Search
+C-01215,2023-07-11,North,Returning,Social
+C-01216,2026-03-24,West,VIP,Social
+C-01217,2023-02-25,North,New,Email
+C-01218,2023-09-09,West,New,Organic Search
+C-01219,2025-01-19,West,VIP,Email
+C-01220,2023-05-10,South,New,Paid Search
+C-01221,2023-08-04,East,New,Social
+C-01222,2025-12-03,North,New,Email
+C-01223,2023-08-01,East,Returning,Organic Search
+C-01224,2025-01-24,North,Returning,Email
+C-01225,2025-10-15,North,New,Social
+C-01226,2024-08-30,East,Returning,Organic Search
+C-01227,2025-03-03,South,Returning,Paid Search
+C-01228,2026-03-07,West,Returning,Organic Search
+C-01229,2024-10-23,Central,Returning,Paid Search
+C-01230,2023-09-01,Central,Returning,Organic Search
+C-01231,2024-12-11,West,New,Organic Search
+C-01232,2023-02-26,East,New,Organic Search
+C-01233,2024-06-18,West,New,Organic Search
+C-01234,2025-05-16,South,Returning,Social
+C-01235,2024-01-14,East,New,Organic Search
+C-01236,2025-07-23,Central,Returning,Social
+C-01237,2022-12-14,Central,New,Email
+C-01238,2024-04-13,South,New,Marketplace
+C-01239,2026-04-25,East,New,Direct
+C-01240,2023-03-23,South,New,Marketplace
+C-01241,2024-11-13,North,Returning,Marketplace
+C-01242,2025-01-06,South,New,Direct
+C-01243,2023-05-29,East,VIP,Email
+C-01244,2023-05-06,East,New,Paid Search
+C-01245,2022-12-21,Central,New,Paid Search
+C-01246,2025-08-06,North,New,Paid Search
+C-01247,2024-10-27,South,New,Direct
+C-01248,2025-08-29,North,New,Organic Search
+C-01249,2025-01-07,West,VIP,Organic Search
+C-01250,2025-12-17,North,VIP,Paid Search
+C-01251,2025-01-19,North,Returning,Paid Search
+C-01252,2026-04-14,West,Returning,Paid Search
+C-01253,2026-01-23,Central,New,Marketplace
+C-01254,2024-09-11,North,Returning,Social
+C-01255,2026-02-08,West,Returning,Marketplace
+C-01256,2024-07-31,Central,Returning,Marketplace
+C-01257,2025-04-05,Central,VIP,Organic Search
+C-01258,2026-01-06,South,VIP,Email
+C-01259,2023-07-07,West,New,Organic Search
+C-01260,2023-01-06,Central,Returning,Paid Search
+C-01261,2025-02-26,West,New,Marketplace
+C-01262,2024-05-20,North,New,Organic Search
+C-01263,2022-12-30,East,Returning,Organic Search
+C-01264,2026-01-11,East,Returning,Organic Search
+C-01265,2022-12-30,West,New,Email
+C-01266,2025-08-31,East,Returning,Social
+C-01267,2023-11-18,East,Returning,Organic Search
+C-01268,2023-12-07,South,New,Direct
+C-01269,2024-05-12,North,VIP,Social
+C-01270,2023-12-27,North,Returning,Direct
+C-01271,2025-04-24,East,Returning,Paid Search
+C-01272,2025-06-01,South,VIP,Social
+C-01273,2026-04-05,South,Returning,Paid Search
+C-01274,2026-04-12,East,VIP,Email
+C-01275,2023-01-24,East,Returning,Marketplace
+C-01276,2023-02-01,North,Returning,Email
+C-01277,2023-01-26,East,Returning,Social
+C-01278,2023-02-15,East,New,Marketplace
+C-01279,2024-06-14,South,Returning,Email
+C-01280,2023-02-26,Central,Returning,Email
+C-01281,2025-05-20,East,New,Organic Search
+C-01282,2026-02-17,West,VIP,Organic Search
+C-01283,2025-03-02,North,New,Paid Search
+C-01284,2023-12-25,North,VIP,Paid Search
+C-01285,2023-10-08,North,Returning,Organic Search
+C-01286,2025-05-15,North,Returning,Social
+C-01287,2025-09-19,North,Returning,Email
+C-01288,2023-02-04,Central,Returning,Email
+C-01289,2023-09-10,North,New,Social
+C-01290,2023-02-20,South,New,Social
+C-01291,2025-05-08,North,New,Marketplace
+C-01292,2023-12-27,West,New,Organic Search
+C-01293,2025-08-22,East,Returning,Organic Search
+C-01294,2025-08-13,East,New,Email
+C-01295,2025-02-23,East,Returning,Organic Search
+C-01296,2025-12-01,East,New,Marketplace
+C-01297,2024-01-06,North,New,Social
+C-01298,2023-01-21,North,New,Email
+C-01299,2026-03-26,Central,New,Organic Search
+C-01300,2025-03-09,North,VIP,Paid Search
+C-01301,2026-03-09,East,Returning,Direct
+C-01302,2026-02-04,North,New,Social
+C-01303,2024-08-29,South,New,Organic Search
+C-01304,2025-03-31,North,Returning,Email
+C-01305,2023-07-14,South,Returning,Email
+C-01306,2025-10-16,North,New,Organic Search
+C-01307,2026-01-20,East,Returning,Direct
+C-01308,2025-07-24,East,Returning,Marketplace
+C-01309,2024-06-17,West,Returning,Organic Search
+C-01310,2026-01-27,South,VIP,Organic Search
+C-01311,2026-01-02,West,Returning,Email
+C-01312,2023-11-10,North,VIP,Paid Search
+C-01313,2023-12-08,North,New,Social
+C-01314,2023-07-06,North,Returning,Email
+C-01315,2025-03-05,South,New,Email
+C-01316,2024-01-15,North,New,Paid Search
+C-01317,2023-03-25,East,New,Paid Search
+C-01318,2022-11-19,South,New,Paid Search
+C-01319,2026-01-15,North,Returning,Organic Search
+C-01320,2024-09-13,Central,Returning,Email
+C-01321,2025-07-05,West,Returning,Email
+C-01322,2025-06-07,East,VIP,Paid Search
+C-01323,2025-03-03,North,VIP,Email
+C-01324,2026-01-07,South,Returning,Email
+C-01325,2024-01-07,South,Returning,Direct
+C-01326,2024-10-31,North,New,Marketplace
+C-01327,2024-10-01,East,VIP,Marketplace
+C-01328,2026-01-19,North,Returning,Organic Search
+C-01329,2024-07-30,South,Returning,Organic Search
+C-01330,2025-03-03,Central,New,Paid Search
+C-01331,2024-07-18,South,New,Organic Search
+C-01332,2023-01-22,Central,Returning,Paid Search
+C-01333,2022-12-28,Central,Returning,Organic Search
+C-01334,2024-10-03,West,VIP,Email
+C-01335,2024-09-07,Central,New,Marketplace
+C-01336,2025-09-29,North,Returning,Social
+C-01337,2025-06-04,Central,New,Organic Search
+C-01338,2024-08-04,West,VIP,Email
+C-01339,2023-05-04,Central,New,Organic Search
+C-01340,2024-08-07,West,New,Social
+C-01341,2024-01-10,North,New,Organic Search
+C-01342,2024-08-21,West,Returning,Organic Search
+C-01343,2023-09-25,North,New,Social
+C-01344,2025-09-24,East,New,Email
+C-01345,2024-05-15,West,New,Paid Search
+C-01346,2024-03-22,South,New,Marketplace
+C-01347,2025-11-18,North,Returning,Email
+C-01348,2023-02-18,North,New,Paid Search
+C-01349,2023-11-08,Central,Returning,Social
+C-01350,2025-05-08,South,Returning,Marketplace
+C-01351,2025-11-03,Central,New,Social
+C-01352,2026-01-12,West,New,Direct
+C-01353,2025-06-23,South,New,Social
+C-01354,2025-06-17,Central,Returning,Organic Search
+C-01355,2026-04-23,South,New,Organic Search
+C-01356,2024-09-13,Central,Returning,Paid Search
+C-01357,2023-01-07,North,New,Email
+C-01358,2023-10-22,South,New,Email
+C-01359,2025-09-12,West,New,Marketplace
+C-01360,2024-09-04,North,Returning,Paid Search
+C-01361,2025-06-08,South,New,Social
+C-01362,2025-12-03,East,New,Organic Search
+C-01363,2024-01-07,East,Returning,Marketplace
+C-01364,2025-04-16,South,Returning,Social
+C-01365,2023-10-27,North,Returning,Direct
+C-01366,2026-01-25,North,Returning,Email
+C-01367,2024-09-03,West,Returning,Organic Search
+C-01368,2025-02-15,North,New,Marketplace
+C-01369,2024-12-22,West,New,Organic Search
+C-01370,2024-01-26,Central,Returning,Marketplace
+C-01371,2022-11-07,West,Returning,Paid Search
+C-01372,2024-06-25,East,New,Organic Search
+C-01373,2024-08-16,West,New,Social
+C-01374,2025-04-15,Central,Returning,Direct
+C-01375,2026-02-12,Central,New,Paid Search
+C-01376,2023-07-26,North,Returning,Marketplace
+C-01377,2023-02-23,East,New,Direct
+C-01378,2023-06-19,Central,Returning,Organic Search
+C-01379,2026-02-27,South,New,Paid Search
+C-01380,2024-12-27,North,Returning,Organic Search
+C-01381,2023-08-18,South,New,Direct
+C-01382,2025-03-10,Central,New,Social
+C-01383,2023-08-09,West,New,Organic Search
+C-01384,2025-07-30,Central,Returning,Organic Search
+C-01385,2023-08-15,South,Returning,Paid Search
+C-01386,2026-03-28,East,VIP,Paid Search
+C-01387,2025-03-24,East,Returning,Paid Search
+C-01388,2023-11-22,North,Returning,Email
+C-01389,2024-03-05,South,Returning,Direct
+C-01390,2026-01-30,Central,New,Email
+C-01391,2024-11-30,East,New,Social
+C-01392,2023-08-24,East,Returning,Marketplace
+C-01393,2024-06-01,North,Returning,Marketplace
+C-01394,2023-05-07,West,New,Social
+C-01395,2023-04-15,East,Returning,Email
+C-01396,2026-04-15,South,New,Social
+C-01397,2025-06-24,Central,Returning,Email
+C-01398,2024-09-15,Central,Returning,Marketplace
+C-01399,2024-06-21,West,New,Email
+C-01400,2024-07-21,East,Returning,Organic Search
+C-01401,2025-07-03,East,Returning,Social
+C-01402,2024-06-26,East,Returning,Paid Search
+C-01403,2023-04-24,North,New,Marketplace
+C-01404,2024-04-06,South,New,Marketplace
+C-01405,2022-12-06,East,Returning,Direct
+C-01406,2023-09-12,South,Returning,Organic Search
+C-01407,2024-03-04,West,Returning,Marketplace
+C-01408,2024-10-09,Central,VIP,Email
+C-01409,2023-09-18,West,Returning,Paid Search
+C-01410,2024-12-30,East,New,Social
+C-01411,2024-01-12,West,Returning,Organic Search
+C-01412,2024-05-01,North,Returning,Organic Search
+C-01413,2025-01-31,East,Returning,Direct
+C-01414,2025-11-01,West,New,Paid Search
+C-01415,2024-04-27,Central,New,Organic Search
+C-01416,2025-05-14,South,New,Email
+C-01417,2023-01-30,East,New,Paid Search
+C-01418,2025-04-09,West,Returning,Organic Search
+C-01419,2024-05-13,North,New,Social
+C-01420,2025-01-16,West,Returning,Organic Search
+C-01421,2026-02-24,East,Returning,Social
+C-01422,2023-11-10,North,New,Organic Search
+C-01423,2023-03-26,North,New,Organic Search
+C-01424,2025-05-08,West,New,Organic Search
+C-01425,2023-01-15,North,New,Direct
+C-01426,2024-01-25,West,VIP,Social
+C-01427,2023-07-10,East,New,Paid Search
+C-01428,2026-01-09,North,Returning,Organic Search
+C-01429,2023-11-19,East,New,Direct
+C-01430,2025-05-23,South,VIP,Paid Search
+C-01431,2024-08-30,West,New,Organic Search
+C-01432,2023-03-14,South,New,Organic Search
+C-01433,2024-05-02,North,New,Direct
+C-01434,2023-12-22,North,Returning,Email
+C-01435,2023-08-28,East,Returning,Email
+C-01436,2023-06-12,West,VIP,Organic Search
+C-01437,2023-04-05,West,New,Social
+C-01438,2022-12-15,North,VIP,Social
+C-01439,2023-01-23,South,Returning,Social
+C-01440,2025-01-16,East,Returning,Direct
+C-01441,2025-08-07,South,Returning,Social
+C-01442,2023-03-30,North,Returning,Direct
+C-01443,2025-07-21,East,New,Direct
+C-01444,2024-09-19,South,Returning,Social
+C-01445,2023-05-11,Central,New,Paid Search
+C-01446,2025-06-05,South,Returning,Organic Search
+C-01447,2025-12-16,South,New,Organic Search
+C-01448,2025-01-13,West,VIP,Paid Search
+C-01449,2023-04-29,East,VIP,Organic Search
+C-01450,2023-01-19,West,New,Email
+C-01451,2025-08-04,West,New,Social
+C-01452,2025-08-26,West,Returning,Paid Search
+C-01453,2022-12-10,North,New,Marketplace
+C-01454,2023-02-02,North,New,Social
+C-01455,2025-10-13,West,Returning,Marketplace
+C-01456,2023-09-08,North,Returning,Organic Search
+C-01457,2023-08-23,North,Returning,Marketplace
+C-01458,2026-04-26,West,New,Organic Search
+C-01459,2023-10-25,Central,Returning,Marketplace
+C-01460,2023-05-25,North,Returning,Email
+C-01461,2023-06-12,East,New,Email
+C-01462,2023-03-16,South,Returning,Marketplace
+C-01463,2025-02-07,Central,New,Email
+C-01464,2023-08-15,Central,New,Organic Search
+C-01465,2023-02-08,South,Returning,Organic Search
+C-01466,2023-08-23,North,Returning,Paid Search
+C-01467,2023-10-10,Central,Returning,Organic Search
+C-01468,2023-05-30,West,Returning,Paid Search
+C-01469,2023-09-26,East,New,Organic Search
+C-01470,2023-11-09,West,VIP,Email
+C-01471,2024-06-10,West,New,Social
+C-01472,2023-07-24,West,New,Email
+C-01473,2025-02-27,North,New,Social
+C-01474,2026-03-12,East,New,Direct
+C-01475,2024-07-15,North,New,Organic Search
+C-01476,2023-07-05,Central,VIP,Email
+C-01477,2025-11-16,East,Returning,Social
+C-01478,2024-01-07,North,New,Marketplace
+C-01479,2025-07-05,North,Returning,Direct
+C-01480,2023-02-25,South,Returning,Paid Search
+C-01481,2024-09-21,Central,Returning,Paid Search
+C-01482,2023-06-08,Central,Returning,Organic Search
+C-01483,2023-01-05,North,Returning,Marketplace
+C-01484,2025-05-05,South,Returning,Organic Search
+C-01485,2024-09-04,North,New,Organic Search
+C-01486,2024-03-06,Central,Returning,Paid Search
+C-01487,2024-02-01,East,New,Organic Search
+C-01488,2025-04-17,Central,New,Paid Search
+C-01489,2025-01-08,East,New,Organic Search
+C-01490,2024-11-10,North,VIP,Organic Search
+C-01491,2026-01-14,North,New,Marketplace
+C-01492,2025-06-03,West,New,Organic Search
+C-01493,2024-07-03,West,Returning,Social
+C-01494,2026-04-12,East,VIP,Email
+C-01495,2024-02-20,Central,New,Email
+C-01496,2024-01-24,West,Returning,Organic Search
+C-01497,2025-04-01,North,Returning,Paid Search
+C-01498,2026-02-05,Central,New,Direct
+C-01499,2026-01-24,South,VIP,Organic Search
+C-01500,2025-06-27,East,Returning,Paid Search
+C-01501,2025-01-22,West,Returning,Marketplace
+C-01502,2025-05-21,North,Returning,Social
+C-01503,2025-02-16,North,VIP,Paid Search
+C-01504,2023-05-11,West,New,Organic Search
+C-01505,2025-06-04,West,Returning,Organic Search
+C-01506,2025-05-26,North,Returning,Social
+C-01507,2023-11-20,South,Returning,Email
+C-01508,2022-11-09,North,Returning,Marketplace
+C-01509,2024-09-18,South,Returning,Social
+C-01510,2026-04-14,West,Returning,Marketplace
+C-01511,2023-04-21,South,Returning,Direct
+C-01512,2025-09-26,West,VIP,Marketplace
+C-01513,2023-06-22,East,New,Organic Search
+C-01514,2024-11-26,East,New,Organic Search
+C-01515,2023-12-31,South,New,Email
+C-01516,2025-07-13,West,Returning,Marketplace
+C-01517,2024-01-10,West,Returning,Paid Search
+C-01518,2024-05-07,South,Returning,Organic Search
+C-01519,2024-12-09,East,New,Email
+C-01520,2023-07-16,East,Returning,Marketplace
+C-01521,2024-06-27,South,Returning,Social
+C-01522,2023-03-21,Central,New,Organic Search
+C-01523,2025-01-15,South,VIP,Direct
+C-01524,2023-06-18,North,New,Organic Search
+C-01525,2023-09-11,East,Returning,Social
+C-01526,2024-06-29,West,New,Direct
+C-01527,2025-07-04,East,New,Social
+C-01528,2024-06-26,North,New,Marketplace
+C-01529,2025-10-06,South,Returning,Paid Search
+C-01530,2024-09-05,West,Returning,Email
+C-01531,2025-12-04,South,Returning,Organic Search
+C-01532,2024-07-26,South,New,Email
+C-01533,2024-06-19,North,Returning,Paid Search
+C-01534,2025-05-28,East,VIP,Organic Search
+C-01535,2025-11-07,Central,New,Marketplace
+C-01536,2023-09-17,North,New,Direct
+C-01537,2026-01-26,South,New,Organic Search
+C-01538,2026-01-01,West,Returning,Direct
+C-01539,2023-09-05,East,New,Organic Search
+C-01540,2024-07-16,North,New,Direct
+C-01541,2023-08-31,Central,VIP,Organic Search
+C-01542,2025-11-29,South,VIP,Social
+C-01543,2025-07-04,Central,VIP,Social
+C-01544,2026-01-24,West,Returning,Social
+C-01545,2025-04-30,North,New,Email
+C-01546,2023-01-28,East,New,Paid Search
+C-01547,2025-02-06,North,Returning,Paid Search
+C-01548,2024-09-05,West,New,Email
+C-01549,2024-02-04,West,Returning,Organic Search
+C-01550,2023-04-27,East,Returning,Social
+C-01551,2023-05-04,South,VIP,Email
+C-01552,2026-03-26,Central,Returning,Marketplace
+C-01553,2024-11-15,West,New,Paid Search
+C-01554,2025-01-05,South,New,Paid Search
+C-01555,2025-05-07,North,Returning,Social
+C-01556,2025-05-04,South,Returning,Paid Search
+C-01557,2023-10-08,Central,Returning,Paid Search
+C-01558,2025-03-04,East,New,Organic Search
+C-01559,2024-01-06,Central,New,Email
+C-01560,2024-09-23,Central,New,Social
+C-01561,2023-05-07,West,New,Organic Search
+C-01562,2023-10-31,West,Returning,Social
+C-01563,2023-08-14,West,New,Paid Search
+C-01564,2025-08-07,West,New,Marketplace
+C-01565,2024-07-21,West,Returning,Organic Search
+C-01566,2022-11-12,South,New,Social
+C-01567,2025-07-01,West,New,Paid Search
+C-01568,2023-11-09,West,Returning,Organic Search
+C-01569,2023-07-09,East,Returning,Direct
+C-01570,2026-03-17,East,Returning,Email
+C-01571,2024-04-18,East,Returning,Social
+C-01572,2023-07-09,West,New,Organic Search
+C-01573,2024-04-21,North,New,Paid Search
+C-01574,2023-08-11,North,New,Paid Search
+C-01575,2024-11-05,South,New,Social
+C-01576,2023-04-13,West,Returning,Organic Search
+C-01577,2023-05-19,North,Returning,Paid Search
+C-01578,2024-08-15,West,Returning,Paid Search
+C-01579,2024-11-18,East,New,Marketplace
+C-01580,2022-12-03,South,New,Social
+C-01581,2025-02-27,Central,New,Organic Search
+C-01582,2023-09-19,West,Returning,Marketplace
+C-01583,2025-12-25,West,Returning,Email
+C-01584,2025-10-31,West,Returning,Marketplace
+C-01585,2025-03-10,North,Returning,Marketplace
+C-01586,2022-12-12,South,Returning,Paid Search
+C-01587,2025-04-30,East,VIP,Social
+C-01588,2024-10-07,South,New,Social
+C-01589,2023-07-07,Central,New,Organic Search
+C-01590,2024-02-14,North,New,Direct
+C-01591,2025-03-26,West,Returning,Organic Search
+C-01592,2025-07-25,North,Returning,Organic Search
+C-01593,2025-09-23,East,Returning,Marketplace
+C-01594,2023-02-03,West,New,Social
+C-01595,2023-07-18,North,VIP,Marketplace
+C-01596,2023-11-20,North,Returning,Organic Search
+C-01597,2024-05-28,South,VIP,Organic Search
+C-01598,2025-08-28,East,Returning,Email
+C-01599,2023-03-26,East,New,Organic Search
+C-01600,2024-01-25,Central,Returning,Organic Search
+C-01601,2025-11-11,West,New,Direct
+C-01602,2025-09-04,East,Returning,Social
+C-01603,2023-11-21,Central,Returning,Organic Search
+C-01604,2024-11-02,South,VIP,Email
+C-01605,2025-02-18,Central,New,Organic Search
+C-01606,2023-06-20,East,Returning,Paid Search
+C-01607,2024-06-19,North,Returning,Paid Search
+C-01608,2023-07-01,East,New,Social
+C-01609,2025-05-04,South,New,Direct
+C-01610,2025-04-01,North,New,Marketplace
+C-01611,2025-07-08,South,VIP,Organic Search
+C-01612,2025-08-09,South,Returning,Email
+C-01613,2023-04-30,South,New,Social
+C-01614,2023-06-03,Central,Returning,Organic Search
+C-01615,2024-11-20,South,VIP,Email
+C-01616,2025-02-11,West,New,Social
+C-01617,2024-05-30,West,Returning,Email
+C-01618,2025-02-03,West,New,Direct
+C-01619,2025-07-26,North,Returning,Paid Search
+C-01620,2023-07-15,East,New,Social
+C-01621,2023-08-09,West,New,Marketplace
+C-01622,2025-08-23,Central,Returning,Paid Search
+C-01623,2024-09-06,East,New,Organic Search
+C-01624,2023-04-12,East,Returning,Email
+C-01625,2025-06-18,West,New,Email
+C-01626,2024-04-25,West,Returning,Email
+C-01627,2022-12-13,North,VIP,Paid Search
+C-01628,2023-07-08,South,New,Paid Search
+C-01629,2025-06-05,North,New,Social
+C-01630,2024-07-19,North,VIP,Paid Search
+C-01631,2024-08-07,East,Returning,Organic Search
+C-01632,2025-08-07,West,Returning,Email
+C-01633,2025-07-08,North,Returning,Organic Search
+C-01634,2024-04-29,Central,Returning,Email
+C-01635,2024-10-29,South,Returning,Organic Search
+C-01636,2026-02-28,West,New,Paid Search
+C-01637,2026-02-14,Central,New,Paid Search
+C-01638,2023-05-25,Central,Returning,Paid Search
+C-01639,2023-03-02,North,Returning,Social
+C-01640,2026-03-04,West,New,Marketplace
+C-01641,2023-06-29,North,New,Paid Search
+C-01642,2025-06-07,South,Returning,Email
+C-01643,2025-03-18,West,New,Email
+C-01644,2024-08-16,South,New,Email
+C-01645,2025-08-03,West,New,Paid Search
+C-01646,2025-09-01,West,Returning,Organic Search
+C-01647,2024-07-12,East,New,Email
+C-01648,2023-04-10,East,Returning,Paid Search
+C-01649,2023-02-12,East,New,Marketplace
+C-01650,2023-05-14,East,Returning,Email
+C-01651,2024-05-19,West,New,Email
+C-01652,2024-01-10,North,New,Marketplace
+C-01653,2025-09-05,East,Returning,Email
+C-01654,2023-12-21,South,New,Email
+C-01655,2025-12-02,North,New,Social
+C-01656,2023-11-24,North,Returning,Direct
+C-01657,2025-06-21,West,New,Marketplace
+C-01658,2025-04-13,West,VIP,Organic Search
+C-01659,2023-12-22,North,New,Organic Search
+C-01660,2024-07-13,South,Returning,Marketplace
+C-01661,2023-03-18,West,Returning,Organic Search
+C-01662,2024-06-16,South,Returning,Email
+C-01663,2025-02-15,North,New,Organic Search
+C-01664,2024-08-03,East,Returning,Paid Search
+C-01665,2023-01-21,South,New,Organic Search
+C-01666,2024-05-28,North,Returning,Marketplace
+C-01667,2025-07-29,North,Returning,Marketplace
+C-01668,2024-08-10,Central,Returning,Marketplace
+C-01669,2025-02-17,West,VIP,Marketplace
+C-01670,2025-01-27,West,VIP,Organic Search
+C-01671,2023-06-24,East,Returning,Organic Search
+C-01672,2026-02-07,Central,VIP,Organic Search
+C-01673,2023-05-10,North,New,Marketplace
+C-01674,2024-09-11,West,Returning,Marketplace
+C-01675,2024-03-04,North,VIP,Organic Search
+C-01676,2024-01-19,East,VIP,Organic Search
+C-01677,2026-02-26,East,New,Social
+C-01678,2023-06-26,South,New,Social
+C-01679,2024-05-28,Central,Returning,Paid Search
+C-01680,2024-11-29,North,Returning,Direct
+C-01681,2026-03-31,West,New,Marketplace
+C-01682,2023-02-26,West,Returning,Organic Search
+C-01683,2025-12-12,West,New,Social
+C-01684,2023-07-14,North,Returning,Paid Search
+C-01685,2022-11-23,South,VIP,Direct
+C-01686,2024-04-13,Central,New,Social
+C-01687,2024-07-08,Central,New,Direct
+C-01688,2024-08-17,West,Returning,Paid Search
+C-01689,2023-01-15,North,New,Social
+C-01690,2025-08-09,South,Returning,Marketplace
+C-01691,2025-03-21,West,Returning,Marketplace
+C-01692,2024-04-24,South,Returning,Email
+C-01693,2025-12-02,East,Returning,Organic Search
+C-01694,2023-02-21,North,Returning,Paid Search
+C-01695,2023-08-12,North,New,Paid Search
+C-01696,2026-01-29,North,New,Email
+C-01697,2023-07-31,West,Returning,Marketplace
+C-01698,2024-08-22,Central,Returning,Organic Search
+C-01699,2023-10-28,West,Returning,Marketplace
+C-01700,2023-12-18,South,New,Paid Search
+C-01701,2024-12-18,Central,VIP,Organic Search
+C-01702,2022-12-24,West,VIP,Social
+C-01703,2023-05-08,North,VIP,Social
+C-01704,2023-10-18,East,New,Email
+C-01705,2023-09-08,South,New,Direct
+C-01706,2023-07-05,East,New,Social
+C-01707,2025-05-24,East,Returning,Organic Search
+C-01708,2023-12-28,Central,New,Marketplace
+C-01709,2024-06-18,South,Returning,Paid Search
+C-01710,2024-01-04,Central,Returning,Paid Search
+C-01711,2023-11-29,South,New,Organic Search
+C-01712,2024-06-23,North,VIP,Paid Search
+C-01713,2024-03-29,West,New,Paid Search
+C-01714,2022-11-28,Central,Returning,Direct
+C-01715,2025-01-29,West,Returning,Social
+C-01716,2026-03-14,North,New,Organic Search
+C-01717,2024-09-18,East,VIP,Paid Search
+C-01718,2026-04-01,Central,VIP,Email
+C-01719,2023-02-08,East,New,Paid Search
+C-01720,2025-01-23,North,Returning,Marketplace
+C-01721,2023-01-30,South,Returning,Email
+C-01722,2024-10-01,North,Returning,Paid Search
+C-01723,2025-10-28,South,Returning,Paid Search
+C-01724,2023-07-26,Central,Returning,Paid Search
+C-01725,2024-11-14,South,VIP,Marketplace
+C-01726,2026-04-15,Central,Returning,Email
+C-01727,2025-04-17,South,VIP,Direct
+C-01728,2023-09-12,Central,Returning,Social
+C-01729,2025-04-26,North,New,Organic Search
+C-01730,2023-01-19,North,Returning,Email
+C-01731,2023-07-02,Central,VIP,Organic Search
+C-01732,2024-11-06,East,VIP,Paid Search
+C-01733,2023-06-25,Central,Returning,Organic Search
+C-01734,2023-05-17,South,New,Marketplace
+C-01735,2025-09-13,East,Returning,Social
+C-01736,2024-01-15,Central,Returning,Email
+C-01737,2026-01-18,Central,New,Organic Search
+C-01738,2025-08-23,Central,Returning,Organic Search
+C-01739,2023-07-14,East,New,Direct
+C-01740,2024-08-30,North,New,Marketplace
+C-01741,2025-07-16,Central,Returning,Email
+C-01742,2022-11-18,North,New,Social
+C-01743,2025-05-22,West,New,Social
+C-01744,2026-01-15,Central,New,Marketplace
+C-01745,2024-06-08,North,New,Organic Search
+C-01746,2026-03-24,South,New,Organic Search
+C-01747,2025-01-31,Central,New,Organic Search
+C-01748,2025-02-08,West,New,Social
+C-01749,2023-07-11,West,New,Social
+C-01750,2024-08-03,East,VIP,Paid Search
+C-01751,2023-05-22,East,Returning,Email
+C-01752,2025-01-09,East,Returning,Paid Search
+C-01753,2025-03-21,East,Returning,Paid Search
+C-01754,2025-03-28,East,New,Direct
+C-01755,2024-02-09,West,Returning,Direct
+C-01756,2025-10-21,East,Returning,Paid Search
+C-01757,2025-04-20,West,New,Paid Search
+C-01758,2023-07-26,South,Returning,Organic Search
+C-01759,2025-03-31,North,New,Organic Search
+C-01760,2023-02-07,East,Returning,Paid Search
+C-01761,2025-06-15,East,Returning,Organic Search
+C-01762,2024-04-11,West,Returning,Organic Search
+C-01763,2025-06-11,North,New,Paid Search
+C-01764,2023-04-26,West,New,Paid Search
+C-01765,2025-05-26,East,Returning,Marketplace
+C-01766,2024-10-06,Central,VIP,Organic Search
+C-01767,2023-11-21,Central,New,Organic Search
+C-01768,2023-06-12,North,Returning,Paid Search
+C-01769,2022-12-04,East,New,Social
+C-01770,2026-03-23,South,Returning,Marketplace
+C-01771,2026-04-23,West,New,Social
+C-01772,2025-01-23,North,Returning,Organic Search
+C-01773,2023-12-02,North,New,Direct
+C-01774,2022-12-31,West,New,Social
+C-01775,2025-04-17,Central,Returning,Email
+C-01776,2023-05-02,East,New,Email
+C-01777,2022-12-21,Central,New,Social
+C-01778,2025-05-06,East,VIP,Marketplace
+C-01779,2026-02-17,South,New,Marketplace
+C-01780,2025-01-17,North,New,Social
+C-01781,2025-04-09,West,VIP,Social
+C-01782,2026-03-11,Central,Returning,Organic Search
+C-01783,2025-02-02,East,Returning,Email
+C-01784,2025-08-02,North,New,Organic Search
+C-01785,2026-01-30,North,New,Marketplace
+C-01786,2025-03-10,North,VIP,Social
+C-01787,2024-10-17,East,Returning,Organic Search
+C-01788,2023-12-05,East,Returning,Email
+C-01789,2026-02-22,South,VIP,Email
+C-01790,2025-06-23,South,New,Social
+C-01791,2025-03-09,West,Returning,Social
+C-01792,2025-07-01,West,Returning,Social
+C-01793,2024-06-07,North,Returning,Email
+C-01794,2023-10-27,East,New,Organic Search
+C-01795,2025-03-07,East,VIP,Organic Search
+C-01796,2025-12-21,North,New,Marketplace
+C-01797,2024-11-07,North,Returning,Marketplace
+C-01798,2025-09-03,North,New,Paid Search
+C-01799,2026-04-24,East,New,Email
+C-01800,2024-10-03,West,Returning,Social
+C-01801,2025-12-21,North,New,Social
+C-01802,2025-09-27,North,Returning,Organic Search
+C-01803,2025-04-21,Central,Returning,Social
+C-01804,2023-06-11,East,Returning,Marketplace
+C-01805,2023-06-03,North,Returning,Organic Search
+C-01806,2023-07-06,Central,Returning,Organic Search
+C-01807,2024-06-27,West,Returning,Email
+C-01808,2023-05-29,South,New,Marketplace
+C-01809,2023-07-16,East,Returning,Paid Search
+C-01810,2022-11-20,West,New,Paid Search
+C-01811,2025-09-06,South,New,Social
+C-01812,2025-03-05,West,New,Organic Search
+C-01813,2025-10-26,North,Returning,Marketplace
+C-01814,2025-03-02,Central,VIP,Direct
+C-01815,2025-09-29,South,Returning,Organic Search
+C-01816,2023-09-01,West,Returning,Email
+C-01817,2023-03-29,South,New,Direct
+C-01818,2023-10-09,South,Returning,Organic Search
+C-01819,2023-09-12,North,VIP,Social
+C-01820,2025-10-06,South,VIP,Marketplace
+C-01821,2025-12-14,West,Returning,Paid Search
+C-01822,2024-10-11,South,New,Email
+C-01823,2023-09-03,East,Returning,Organic Search
+C-01824,2025-11-25,East,Returning,Paid Search
+C-01825,2024-10-14,West,VIP,Paid Search
+C-01826,2023-12-16,North,VIP,Email
+C-01827,2025-01-13,West,Returning,Organic Search
+C-01828,2025-11-18,North,New,Email
+C-01829,2025-10-09,West,New,Organic Search
+C-01830,2025-11-16,North,Returning,Social
+C-01831,2025-03-21,North,VIP,Organic Search
+C-01832,2024-12-09,East,New,Organic Search
+C-01833,2023-07-20,East,Returning,Organic Search
+C-01834,2024-10-01,West,VIP,Direct
+C-01835,2026-01-08,Central,Returning,Social
+C-01836,2026-03-10,South,New,Social
+C-01837,2026-01-23,West,Returning,Email
+C-01838,2024-03-28,East,New,Organic Search
+C-01839,2024-11-15,North,Returning,Paid Search
+C-01840,2025-02-27,North,New,Marketplace
+C-01841,2025-07-09,North,New,Social
+C-01842,2025-02-08,East,Returning,Paid Search
+C-01843,2024-04-30,West,Returning,Direct
+C-01844,2025-08-05,South,Returning,Organic Search
+C-01845,2025-09-07,West,New,Organic Search
+C-01846,2025-09-23,North,Returning,Organic Search
+C-01847,2025-07-03,North,New,Email
+C-01848,2023-07-08,South,Returning,Organic Search
+C-01849,2026-01-20,East,New,Organic Search
+C-01850,2024-07-23,South,VIP,Email
+C-01851,2023-08-26,East,New,Organic Search
+C-01852,2024-07-23,North,VIP,Marketplace
+C-01853,2025-08-04,East,New,Organic Search
+C-01854,2023-02-06,East,New,Email
+C-01855,2024-09-28,East,Returning,Social
+C-01856,2026-03-31,North,New,Social
+C-01857,2025-05-16,North,Returning,Social
+C-01858,2023-05-08,West,Returning,Paid Search
+C-01859,2024-02-26,South,VIP,Organic Search
+C-01860,2025-05-02,West,Returning,Marketplace
+C-01861,2022-12-27,West,Returning,Social
+C-01862,2025-12-30,West,Returning,Organic Search
+C-01863,2026-04-27,West,Returning,Direct
+C-01864,2025-10-10,East,New,Marketplace
+C-01865,2023-07-11,East,Returning,Direct
+C-01866,2024-05-23,North,Returning,Social
+C-01867,2026-02-05,West,Returning,Email
+C-01868,2025-02-06,East,Returning,Direct
+C-01869,2024-10-03,South,Returning,Marketplace
+C-01870,2024-08-17,North,New,Direct
+C-01871,2025-11-20,North,New,Organic Search
+C-01872,2023-05-09,Central,New,Social
+C-01873,2023-03-07,South,Returning,Organic Search
+C-01874,2023-03-06,North,New,Organic Search
+C-01875,2024-08-31,Central,New,Marketplace
+C-01876,2023-02-21,West,New,Email
+C-01877,2025-08-12,East,Returning,Direct
+C-01878,2024-05-11,East,New,Paid Search
+C-01879,2025-07-25,West,New,Direct
+C-01880,2022-12-15,Central,New,Social
+C-01881,2024-03-25,West,Returning,Organic Search
+C-01882,2026-01-13,North,New,Social
+C-01883,2023-12-28,North,Returning,Email
+C-01884,2023-10-17,East,Returning,Paid Search
+C-01885,2025-12-17,North,Returning,Email
+C-01886,2024-06-21,North,Returning,Organic Search
+C-01887,2025-07-21,South,New,Social
+C-01888,2024-10-26,North,Returning,Marketplace
+C-01889,2024-06-05,West,New,Email
+C-01890,2024-07-14,West,New,Marketplace
+C-01891,2025-12-20,Central,VIP,Organic Search
+C-01892,2025-09-05,South,VIP,Social
+C-01893,2024-10-08,Central,Returning,Social
+C-01894,2024-05-19,Central,New,Paid Search
+C-01895,2025-06-05,South,VIP,Direct
+C-01896,2023-08-07,North,Returning,Email
+C-01897,2022-11-26,South,Returning,Marketplace
+C-01898,2025-08-04,East,Returning,Marketplace
+C-01899,2023-04-14,Central,Returning,Marketplace
+C-01900,2025-05-06,South,Returning,Marketplace
+C-01901,2026-03-22,North,New,Social
+C-01902,2022-11-24,South,New,Organic Search
+C-01903,2022-11-26,North,New,Paid Search
+C-01904,2024-11-08,West,New,Social
+C-01905,2024-02-02,East,New,Paid Search
+C-01906,2024-06-03,West,Returning,Email
+C-01907,2022-11-21,West,New,Paid Search
+C-01908,2024-05-28,East,Returning,Email
+C-01909,2026-01-08,East,Returning,Organic Search
+C-01910,2026-02-23,North,New,Organic Search
+C-01911,2026-01-17,Central,Returning,Social
+C-01912,2024-05-21,West,New,Direct
+C-01913,2025-11-02,West,Returning,Marketplace
+C-01914,2022-11-11,West,VIP,Direct
+C-01915,2023-02-21,South,Returning,Marketplace
+C-01916,2025-02-17,West,New,Email
+C-01917,2024-11-16,North,Returning,Social
+C-01918,2023-02-11,South,New,Paid Search
+C-01919,2022-11-17,South,New,Marketplace
+C-01920,2022-12-28,North,VIP,Social
+C-01921,2023-04-08,North,VIP,Paid Search
+C-01922,2023-03-15,North,Returning,Email
+C-01923,2022-12-26,East,Returning,Paid Search
+C-01924,2024-04-02,East,New,Direct
+C-01925,2023-02-26,East,Returning,Organic Search
+C-01926,2023-04-05,East,Returning,Social
+C-01927,2025-05-09,North,Returning,Organic Search
+C-01928,2023-01-14,Central,New,Social
+C-01929,2023-07-26,West,New,Organic Search
+C-01930,2026-04-10,North,Returning,Social
+C-01931,2025-12-26,West,New,Paid Search
+C-01932,2026-04-24,North,Returning,Email
+C-01933,2022-11-28,East,Returning,Paid Search
+C-01934,2026-04-30,South,Returning,Direct
+C-01935,2022-12-30,South,Returning,Organic Search
+C-01936,2023-06-05,West,New,Email
+C-01937,2023-12-08,North,VIP,Email
+C-01938,2024-11-03,West,Returning,Paid Search
+C-01939,2024-03-18,North,New,Organic Search
+C-01940,2026-02-16,Central,Returning,Social
+C-01941,2024-08-05,East,Returning,Organic Search
+C-01942,2025-06-25,South,New,Paid Search
+C-01943,2022-11-23,West,Returning,Organic Search
+C-01944,2024-03-07,West,Returning,Marketplace
+C-01945,2025-03-20,Central,New,Social
+C-01946,2023-12-24,South,Returning,Social
+C-01947,2025-06-21,South,Returning,Email
+C-01948,2024-09-24,South,Returning,Organic Search
+C-01949,2025-05-25,Central,Returning,Email
+C-01950,2022-11-14,West,Returning,Email
+C-01951,2024-01-17,West,New,Direct
+C-01952,2024-09-15,South,Returning,Paid Search
+C-01953,2022-11-20,North,New,Organic Search
+C-01954,2023-06-30,East,New,Social
+C-01955,2024-11-13,North,New,Organic Search
+C-01956,2023-10-29,South,New,Organic Search
+C-01957,2025-12-16,North,New,Organic Search
+C-01958,2024-04-26,North,VIP,Social
+C-01959,2024-12-22,Central,Returning,Paid Search
+C-01960,2024-01-11,North,New,Marketplace
+C-01961,2023-10-23,Central,VIP,Direct
+C-01962,2025-04-13,North,Returning,Organic Search
+C-01963,2023-08-01,North,Returning,Paid Search
+C-01964,2024-12-12,South,New,Social
+C-01965,2023-02-09,East,Returning,Marketplace
+C-01966,2024-07-01,South,Returning,Organic Search
+C-01967,2024-06-02,Central,Returning,Direct
+C-01968,2025-08-04,North,New,Email
+C-01969,2026-04-19,East,New,Social
+C-01970,2025-09-14,East,New,Organic Search
+C-01971,2024-12-11,East,Returning,Direct
+C-01972,2025-07-04,South,New,Direct
+C-01973,2026-02-14,North,Returning,Marketplace
+C-01974,2025-05-20,South,Returning,Paid Search
+C-01975,2024-12-18,Central,Returning,Paid Search
+C-01976,2025-12-08,West,New,Paid Search
+C-01977,2025-10-04,East,New,Email
+C-01978,2024-09-25,East,Returning,Paid Search
+C-01979,2025-08-21,South,New,Organic Search
+C-01980,2024-02-28,North,New,Marketplace
+C-01981,2024-07-02,East,Returning,Social
+C-01982,2024-05-26,North,VIP,Organic Search
+C-01983,2023-01-24,South,Returning,Social
+C-01984,2024-04-02,West,New,Social
+C-01985,2024-05-22,East,New,Organic Search
+C-01986,2025-11-23,North,VIP,Paid Search
+C-01987,2024-10-16,South,Returning,Paid Search
+C-01988,2026-02-06,North,Returning,Social
+C-01989,2023-09-08,North,Returning,Social
+C-01990,2024-01-10,East,Returning,Marketplace
+C-01991,2025-06-23,East,Returning,Marketplace
+C-01992,2024-08-09,South,Returning,Direct
+C-01993,2025-03-11,East,New,Email
+C-01994,2024-12-13,Central,New,Paid Search
+C-01995,2022-11-26,West,Returning,Paid Search
+C-01996,2024-02-11,West,New,Paid Search
+C-01997,2025-11-12,East,New,Email
+C-01998,2023-01-11,North,VIP,Direct
+C-01999,2024-09-13,West,Returning,Direct
+C-02000,2026-01-25,Central,Returning,Organic Search
+C-02001,2025-01-15,South,New,Email
+C-02002,2024-09-10,East,Returning,Marketplace
+C-02003,2023-05-16,West,New,Organic Search
+C-02004,2026-03-26,North,Returning,Organic Search
+C-02005,2025-01-05,North,New,Social
+C-02006,2023-03-30,South,Returning,Organic Search
+C-02007,2024-09-06,South,Returning,Organic Search
+C-02008,2023-06-21,South,New,Social
+C-02009,2025-01-11,Central,VIP,Organic Search
+C-02010,2024-01-02,West,New,Social
+C-02011,2023-09-28,Central,Returning,Email
+C-02012,2025-09-01,East,Returning,Organic Search
+C-02013,2023-08-26,West,Returning,Email
+C-02014,2024-03-26,Central,Returning,Marketplace
+C-02015,2025-06-06,North,Returning,Organic Search
+C-02016,2025-05-29,West,New,Marketplace
+C-02017,2025-01-15,West,Returning,Organic Search
+C-02018,2024-03-31,East,New,Paid Search
+C-02019,2025-01-02,North,VIP,Email
+C-02020,2025-01-20,North,Returning,Marketplace
+C-02021,2023-09-26,East,New,Paid Search
+C-02022,2023-03-23,West,Returning,Organic Search
+C-02023,2025-08-13,West,New,Organic Search
+C-02024,2024-12-01,North,New,Social
+C-02025,2024-09-04,North,New,Organic Search
+C-02026,2023-02-06,North,Returning,Social
+C-02027,2025-06-09,West,New,Marketplace
+C-02028,2025-01-27,South,New,Social
+C-02029,2023-08-13,West,New,Email
+C-02030,2023-03-26,West,New,Social
+C-02031,2025-04-21,West,New,Marketplace
+C-02032,2023-10-22,East,Returning,Organic Search
+C-02033,2023-07-19,South,Returning,Organic Search
+C-02034,2022-11-29,North,Returning,Paid Search
+C-02035,2024-01-24,Central,Returning,Email
+C-02036,2025-04-30,West,Returning,Marketplace
+C-02037,2023-06-05,South,New,Organic Search
+C-02038,2022-11-16,South,New,Organic Search
+C-02039,2024-04-01,North,New,Organic Search
+C-02040,2025-03-19,North,New,Marketplace
+C-02041,2023-03-16,Central,New,Marketplace
+C-02042,2023-10-16,North,Returning,Email
+C-02043,2024-09-06,East,New,Social
+C-02044,2025-11-20,South,New,Organic Search
+C-02045,2023-06-11,North,New,Paid Search
+C-02046,2024-08-15,North,New,Organic Search
+C-02047,2024-05-30,South,Returning,Organic Search
+C-02048,2024-01-28,West,New,Email
+C-02049,2023-06-03,West,Returning,Direct
+C-02050,2026-01-15,Central,New,Email
+C-02051,2025-01-10,Central,Returning,Social
+C-02052,2024-09-17,West,New,Social
+C-02053,2025-07-21,North,New,Direct
+C-02054,2025-05-14,West,New,Organic Search
+C-02055,2026-02-22,North,Returning,Organic Search
+C-02056,2023-07-19,West,New,Social
+C-02057,2026-04-29,North,New,Email
+C-02058,2023-12-25,North,New,Organic Search
+C-02059,2026-03-15,East,VIP,Marketplace
+C-02060,2023-08-08,West,New,Social
+C-02061,2025-10-08,South,Returning,Marketplace
+C-02062,2022-12-25,West,New,Paid Search
+C-02063,2024-01-02,Central,Returning,Social
+C-02064,2024-03-29,West,Returning,Organic Search
+C-02065,2024-12-27,North,Returning,Social
+C-02066,2023-03-19,North,Returning,Organic Search
+C-02067,2023-08-23,North,VIP,Organic Search
+C-02068,2025-12-05,Central,Returning,Organic Search
+C-02069,2023-04-16,East,Returning,Organic Search
+C-02070,2023-12-16,North,New,Organic Search
+C-02071,2024-06-13,Central,Returning,Organic Search
+C-02072,2025-07-19,Central,New,Paid Search
+C-02073,2023-10-16,South,Returning,Email
+C-02074,2025-04-12,West,Returning,Marketplace
+C-02075,2022-12-17,South,Returning,Organic Search
+C-02076,2024-07-13,North,Returning,Social
+C-02077,2024-04-16,South,New,Paid Search
+C-02078,2026-01-01,North,Returning,Organic Search
+C-02079,2025-06-25,Central,New,Organic Search
+C-02080,2025-08-28,South,Returning,Paid Search
+C-02081,2025-03-07,Central,VIP,Paid Search
+C-02082,2025-08-05,Central,New,Organic Search
+C-02083,2023-01-25,North,VIP,Direct
+C-02084,2023-10-05,East,New,Organic Search
+C-02085,2024-10-20,East,Returning,Social
+C-02086,2023-03-05,Central,Returning,Social
+C-02087,2024-03-17,Central,Returning,Paid Search
+C-02088,2023-01-03,West,Returning,Organic Search
+C-02089,2025-05-27,North,VIP,Organic Search
+C-02090,2026-02-03,West,VIP,Organic Search
+C-02091,2023-05-15,Central,Returning,Paid Search
+C-02092,2026-02-19,North,VIP,Marketplace
+C-02093,2025-03-22,South,New,Social
+C-02094,2025-08-28,West,VIP,Paid Search
+C-02095,2024-07-29,West,Returning,Direct
+C-02096,2023-05-08,East,New,Marketplace
+C-02097,2023-08-26,North,New,Social
+C-02098,2024-07-29,North,New,Email
+C-02099,2023-05-24,West,New,Email
+C-02100,2024-06-19,North,Returning,Paid Search
+C-02101,2023-08-09,North,New,Direct
+C-02102,2025-05-17,North,Returning,Organic Search
+C-02103,2023-11-16,North,Returning,Direct
+C-02104,2025-02-21,Central,Returning,Organic Search
+C-02105,2023-10-13,North,New,Organic Search
+C-02106,2023-03-18,East,New,Email
+C-02107,2023-06-01,South,New,Direct
+C-02108,2026-02-11,North,Returning,Organic Search
+C-02109,2022-11-21,East,New,Direct
+C-02110,2024-05-04,East,VIP,Paid Search
+C-02111,2025-04-04,West,New,Paid Search
+C-02112,2024-08-13,Central,Returning,Social
+C-02113,2024-12-21,Central,Returning,Marketplace
+C-02114,2023-05-31,Central,New,Paid Search
+C-02115,2023-08-18,North,New,Email
+C-02116,2024-03-30,East,New,Social
+C-02117,2025-07-07,West,Returning,Organic Search
+C-02118,2024-08-27,South,New,Organic Search
+C-02119,2024-09-03,North,Returning,Email
+C-02120,2026-04-14,South,Returning,Direct
+C-02121,2025-07-09,Central,VIP,Marketplace
+C-02122,2025-01-03,North,New,Organic Search
+C-02123,2025-10-07,West,Returning,Social
+C-02124,2023-01-11,West,New,Paid Search
+C-02125,2025-12-04,East,VIP,Marketplace
+C-02126,2023-07-01,East,Returning,Organic Search
+C-02127,2023-10-22,West,Returning,Organic Search
+C-02128,2025-04-15,North,VIP,Direct
+C-02129,2024-09-05,West,VIP,Organic Search
+C-02130,2024-04-17,Central,Returning,Social
+C-02131,2023-08-12,West,VIP,Email
+C-02132,2024-09-18,Central,Returning,Social
+C-02133,2026-03-21,South,New,Direct
+C-02134,2024-12-27,West,Returning,Direct
+C-02135,2025-04-19,North,Returning,Organic Search
+C-02136,2023-05-05,South,New,Email
+C-02137,2023-11-27,North,Returning,Paid Search
+C-02138,2024-08-09,East,VIP,Organic Search
+C-02139,2023-03-13,North,Returning,Paid Search
+C-02140,2025-03-23,South,New,Social
+C-02141,2023-07-23,East,Returning,Organic Search
+C-02142,2025-01-24,Central,New,Paid Search
+C-02143,2024-07-06,East,Returning,Paid Search
+C-02144,2026-03-22,West,New,Marketplace
+C-02145,2023-01-16,South,Returning,Direct
+C-02146,2023-07-17,West,New,Email
+C-02147,2024-01-22,West,Returning,Paid Search
+C-02148,2024-09-19,West,New,Marketplace
+C-02149,2024-02-10,North,Returning,Marketplace
+C-02150,2023-11-08,West,Returning,Paid Search
+C-02151,2023-09-29,East,VIP,Paid Search
+C-02152,2025-07-03,West,VIP,Paid Search
+C-02153,2025-10-23,South,Returning,Direct
+C-02154,2025-12-03,North,New,Social
+C-02155,2026-02-07,North,Returning,Direct
+C-02156,2024-07-21,North,Returning,Organic Search
+C-02157,2025-07-22,North,New,Organic Search
+C-02158,2023-12-12,North,Returning,Social
+C-02159,2026-01-28,West,New,Marketplace
+C-02160,2024-12-17,South,VIP,Marketplace
+C-02161,2023-03-02,Central,New,Organic Search
+C-02162,2023-02-22,East,New,Paid Search
+C-02163,2025-04-13,East,VIP,Paid Search
+C-02164,2023-01-15,South,New,Paid Search
+C-02165,2026-03-11,West,VIP,Paid Search
+C-02166,2023-05-09,Central,Returning,Social
+C-02167,2024-05-23,East,Returning,Organic Search
+C-02168,2023-07-03,East,New,Social
+C-02169,2025-09-15,East,New,Direct
+C-02170,2025-07-16,West,New,Marketplace
+C-02171,2023-11-12,Central,New,Social
+C-02172,2024-07-10,North,Returning,Organic Search
+C-02173,2025-11-11,West,New,Organic Search
+C-02174,2025-12-19,West,Returning,Email
+C-02175,2023-03-17,East,Returning,Social
+C-02176,2023-07-19,North,Returning,Social
+C-02177,2023-07-05,East,New,Organic Search
+C-02178,2025-12-17,South,Returning,Organic Search
+C-02179,2026-01-27,North,New,Email
+C-02180,2023-01-17,North,New,Paid Search
+C-02181,2025-11-25,Central,New,Social
+C-02182,2024-03-29,Central,New,Email
+C-02183,2024-06-29,East,Returning,Email
+C-02184,2024-08-08,Central,Returning,Paid Search
+C-02185,2025-11-13,West,Returning,Social
+C-02186,2023-02-06,North,New,Paid Search
+C-02187,2024-01-21,East,VIP,Organic Search
+C-02188,2024-11-11,West,New,Paid Search
+C-02189,2025-12-07,South,New,Marketplace
+C-02190,2025-02-03,Central,Returning,Social
+C-02191,2023-08-27,North,Returning,Social
+C-02192,2023-12-06,East,Returning,Social
+C-02193,2025-09-19,South,Returning,Organic Search
+C-02194,2025-04-13,Central,New,Organic Search
+C-02195,2024-05-13,North,New,Email
+C-02196,2023-03-22,North,New,Marketplace
+C-02197,2024-05-19,West,New,Organic Search
+C-02198,2023-05-26,Central,New,Paid Search
+C-02199,2023-06-10,North,Returning,Email
+C-02200,2024-07-26,West,Returning,Organic Search
+C-02201,2024-10-21,Central,Returning,Email
+C-02202,2026-04-04,North,New,Paid Search
+C-02203,2025-01-12,West,New,Social
+C-02204,2025-10-30,Central,Returning,Paid Search
+C-02205,2026-03-04,North,New,Email
+C-02206,2023-09-21,North,Returning,Email
+C-02207,2024-05-07,West,New,Direct
+C-02208,2024-03-31,South,Returning,Paid Search
+C-02209,2025-04-23,West,VIP,Email
+C-02210,2024-05-24,East,VIP,Social
+C-02211,2024-02-18,Central,New,Direct
+C-02212,2025-02-16,West,Returning,Social
+C-02213,2023-04-13,Central,Returning,Organic Search
+C-02214,2023-03-04,South,New,Direct
+C-02215,2022-11-28,South,VIP,Email
+C-02216,2023-08-13,East,Returning,Direct
+C-02217,2025-11-01,South,Returning,Email
+C-02218,2022-11-21,West,Returning,Social
+C-02219,2024-03-21,West,VIP,Direct
+C-02220,2025-10-23,North,Returning,Paid Search
+C-02221,2023-10-18,Central,Returning,Email
+C-02222,2024-02-10,South,New,Organic Search
+C-02223,2024-10-30,South,VIP,Paid Search
+C-02224,2024-12-10,South,VIP,Social
+C-02225,2025-11-15,Central,Returning,Paid Search
+C-02226,2025-07-23,North,New,Social
+C-02227,2026-01-14,Central,New,Direct
+C-02228,2025-09-27,North,Returning,Email
+C-02229,2026-04-25,North,Returning,Organic Search
+C-02230,2025-06-06,South,New,Organic Search
+C-02231,2023-11-23,North,New,Paid Search
+C-02232,2023-12-16,East,New,Organic Search
+C-02233,2023-07-18,North,VIP,Social
+C-02234,2024-04-02,South,New,Paid Search
+C-02235,2025-04-02,East,VIP,Organic Search
+C-02236,2025-04-23,East,Returning,Organic Search
+C-02237,2025-04-13,Central,New,Social
+C-02238,2023-06-21,North,New,Paid Search
+C-02239,2024-09-15,North,VIP,Organic Search
+C-02240,2025-07-15,Central,VIP,Organic Search
+C-02241,2025-08-04,West,Returning,Social
+C-02242,2024-09-02,West,Returning,Paid Search
+C-02243,2025-01-11,Central,New,Marketplace
+C-02244,2023-07-23,East,New,Social
+C-02245,2024-03-05,West,New,Paid Search
+C-02246,2026-03-13,East,Returning,Paid Search
+C-02247,2025-07-29,South,New,Email
+C-02248,2025-09-19,South,New,Organic Search
+C-02249,2024-04-29,North,VIP,Marketplace
+C-02250,2023-12-18,West,Returning,Organic Search
+C-02251,2025-08-31,North,Returning,Marketplace
+C-02252,2023-09-07,North,New,Organic Search
+C-02253,2023-12-05,South,VIP,Email
+C-02254,2023-05-12,South,Returning,Email
+C-02255,2024-02-23,South,New,Organic Search
+C-02256,2025-03-30,South,Returning,Organic Search
+C-02257,2024-06-03,West,VIP,Organic Search
+C-02258,2023-02-12,North,New,Social
+C-02259,2024-08-26,East,New,Marketplace
+C-02260,2023-06-01,South,Returning,Email
+C-02261,2024-09-21,North,New,Organic Search
+C-02262,2025-12-11,North,Returning,Paid Search
+C-02263,2024-11-16,East,Returning,Email
+C-02264,2024-03-08,North,Returning,Paid Search
+C-02265,2023-06-12,West,New,Organic Search
+C-02266,2026-02-20,Central,VIP,Marketplace
+C-02267,2023-12-07,Central,Returning,Organic Search
+C-02268,2025-11-30,South,Returning,Email
+C-02269,2023-12-25,North,Returning,Organic Search
+C-02270,2025-03-12,South,Returning,Marketplace
+C-02271,2025-12-28,Central,VIP,Paid Search
+C-02272,2023-07-05,North,VIP,Paid Search
+C-02273,2025-09-03,North,Returning,Organic Search
+C-02274,2023-07-29,Central,New,Organic Search
+C-02275,2023-12-01,South,Returning,Social
+C-02276,2025-09-23,North,VIP,Social
+C-02277,2025-01-01,South,Returning,Email
+C-02278,2024-01-04,North,New,Organic Search
+C-02279,2022-11-25,West,Returning,Paid Search
+C-02280,2025-10-17,Central,New,Paid Search
+C-02281,2024-05-09,North,Returning,Organic Search
+C-02282,2024-03-08,West,New,Direct
+C-02283,2024-05-28,South,VIP,Marketplace
+C-02284,2024-03-30,North,VIP,Organic Search
+C-02285,2024-10-18,Central,Returning,Paid Search
+C-02286,2025-12-05,North,New,Marketplace
+C-02287,2024-07-02,North,New,Marketplace
+C-02288,2024-11-04,Central,New,Organic Search
+C-02289,2022-12-09,Central,Returning,Social
+C-02290,2026-02-13,West,New,Paid Search
+C-02291,2024-04-17,West,Returning,Email
+C-02292,2025-04-30,South,New,Email
+C-02293,2025-01-24,North,New,Social
+C-02294,2024-11-30,East,New,Email
+C-02295,2025-06-04,Central,New,Organic Search
+C-02296,2025-08-07,North,VIP,Paid Search
+C-02297,2024-08-03,North,New,Paid Search
+C-02298,2026-04-04,North,New,Paid Search
+C-02299,2025-05-26,Central,VIP,Organic Search
+C-02300,2025-10-20,West,New,Organic Search
+C-02301,2023-05-30,North,New,Marketplace
+C-02302,2023-02-04,West,New,Organic Search
+C-02303,2026-03-19,Central,New,Direct
+C-02304,2023-06-12,West,Returning,Marketplace
+C-02305,2023-04-30,East,New,Email
+C-02306,2025-05-04,South,Returning,Email
+C-02307,2024-03-20,West,New,Social
+C-02308,2023-07-17,North,New,Email
+C-02309,2023-06-05,West,Returning,Organic Search
+C-02310,2024-02-09,South,New,Organic Search
+C-02311,2024-06-16,Central,New,Paid Search
+C-02312,2023-06-25,Central,Returning,Organic Search
+C-02313,2024-06-06,East,New,Organic Search
+C-02314,2023-04-29,East,VIP,Organic Search
+C-02315,2025-10-28,North,New,Paid Search
+C-02316,2024-07-16,South,Returning,Marketplace
+C-02317,2024-05-15,West,VIP,Direct
+C-02318,2023-04-12,Central,Returning,Direct
+C-02319,2023-09-03,South,New,Social
+C-02320,2025-07-13,North,Returning,Paid Search
+C-02321,2024-05-30,South,New,Organic Search
+C-02322,2025-01-03,East,New,Email
+C-02323,2025-03-03,West,Returning,Organic Search
+C-02324,2024-03-24,East,New,Email
+C-02325,2025-08-11,West,Returning,Paid Search
+C-02326,2026-02-08,East,Returning,Social
+C-02327,2024-01-30,North,Returning,Organic Search
+C-02328,2022-12-12,East,New,Organic Search
+C-02329,2023-06-20,South,New,Marketplace
+C-02330,2023-08-19,North,New,Marketplace
+C-02331,2025-03-18,West,New,Organic Search
+C-02332,2023-08-16,West,New,Organic Search
+C-02333,2022-12-30,South,Returning,Organic Search
+C-02334,2023-06-12,North,Returning,Marketplace
+C-02335,2023-09-26,South,New,Organic Search
+C-02336,2023-04-13,West,New,Paid Search
+C-02337,2023-11-15,North,Returning,Email
+C-02338,2024-07-12,West,Returning,Paid Search
+C-02339,2022-12-04,North,New,Marketplace
+C-02340,2023-01-11,North,Returning,Organic Search
+C-02341,2025-01-26,West,Returning,Marketplace
+C-02342,2025-12-15,South,Returning,Email
+C-02343,2024-07-25,South,Returning,Organic Search
+C-02344,2023-05-14,Central,Returning,Organic Search
+C-02345,2024-01-14,North,New,Paid Search
+C-02346,2025-12-26,North,Returning,Social
+C-02347,2025-07-11,West,New,Marketplace
+C-02348,2023-10-10,South,New,Paid Search
+C-02349,2024-05-12,North,New,Email
+C-02350,2024-09-24,South,New,Email
+C-02351,2023-03-20,North,New,Marketplace
+C-02352,2023-11-26,West,Returning,Organic Search
+C-02353,2024-05-11,East,New,Organic Search
+C-02354,2025-07-24,South,New,Direct
+C-02355,2022-11-24,West,VIP,Direct
+C-02356,2025-08-27,West,New,Social
+C-02357,2023-07-30,North,Returning,Paid Search
+C-02358,2025-09-03,West,New,Organic Search
+C-02359,2026-02-21,East,Returning,Marketplace
+C-02360,2023-01-22,North,New,Email
+C-02361,2023-05-17,North,VIP,Organic Search
+C-02362,2023-08-22,North,Returning,Direct
+C-02363,2025-09-29,East,VIP,Email
+C-02364,2024-10-06,North,Returning,Paid Search
+C-02365,2025-04-07,West,New,Social
+C-02366,2024-03-10,East,New,Organic Search
+C-02367,2023-09-15,Central,Returning,Organic Search
+C-02368,2022-12-07,Central,New,Email
+C-02369,2023-05-04,East,Returning,Organic Search
+C-02370,2024-07-04,South,New,Paid Search
+C-02371,2023-05-08,West,New,Email
+C-02372,2025-07-03,West,VIP,Paid Search
+C-02373,2023-08-21,Central,VIP,Email
+C-02374,2024-11-20,South,Returning,Marketplace
+C-02375,2023-07-29,East,Returning,Social
+C-02376,2024-08-10,West,New,Email
+C-02377,2024-04-28,Central,Returning,Organic Search
+C-02378,2023-03-03,North,Returning,Marketplace
+C-02379,2022-11-23,North,New,Paid Search
+C-02380,2026-01-17,North,New,Paid Search
+C-02381,2025-06-10,South,Returning,Email
+C-02382,2025-11-06,East,VIP,Organic Search
+C-02383,2023-06-16,Central,VIP,Social
+C-02384,2023-12-20,North,New,Paid Search
+C-02385,2026-03-28,West,Returning,Email
+C-02386,2024-05-30,East,Returning,Direct
+C-02387,2023-09-01,South,Returning,Organic Search
+C-02388,2026-03-22,North,Returning,Marketplace
+C-02389,2025-04-05,North,VIP,Organic Search
+C-02390,2022-12-23,West,VIP,Organic Search
+C-02391,2023-11-02,North,New,Paid Search
+C-02392,2024-07-09,East,Returning,Paid Search
+C-02393,2024-01-19,South,Returning,Marketplace
+C-02394,2023-05-15,South,VIP,Direct
+C-02395,2024-07-07,South,New,Paid Search
+C-02396,2025-07-07,West,Returning,Direct
+C-02397,2025-04-19,West,New,Paid Search
+C-02398,2022-11-27,Central,Returning,Organic Search
+C-02399,2026-02-03,South,Returning,Direct
+C-02400,2024-08-16,Central,New,Direct
+C-02401,2025-08-25,North,Returning,Direct
+C-02402,2025-02-16,West,New,Direct
+C-02403,2023-07-22,West,Returning,Email
+C-02404,2023-01-20,Central,New,Paid Search
+C-02405,2025-11-29,East,Returning,Organic Search
+C-02406,2024-01-10,Central,VIP,Email
+C-02407,2022-12-06,South,New,Paid Search
+C-02408,2024-07-27,Central,Returning,Social
+C-02409,2025-05-28,South,New,Marketplace
+C-02410,2025-03-28,West,Returning,Organic Search
+C-02411,2023-11-02,South,Returning,Email
+C-02412,2023-10-06,South,Returning,Marketplace
+C-02413,2025-04-20,West,Returning,Direct
+C-02414,2023-05-29,West,VIP,Organic Search
+C-02415,2022-12-10,South,Returning,Email
+C-02416,2025-11-26,East,New,Email
+C-02417,2023-01-12,Central,Returning,Organic Search
+C-02418,2025-05-26,North,Returning,Marketplace
+C-02419,2023-07-19,West,New,Email
+C-02420,2025-01-25,South,New,Organic Search
+C-02421,2024-06-09,West,New,Paid Search
+C-02422,2025-03-05,North,Returning,Marketplace
+C-02423,2023-01-12,North,New,Paid Search
+C-02424,2025-10-04,East,Returning,Paid Search
+C-02425,2026-01-21,North,VIP,Direct
+C-02426,2023-12-06,South,Returning,Organic Search
+C-02427,2026-02-02,Central,Returning,Paid Search
+C-02428,2023-10-28,South,New,Organic Search
+C-02429,2024-02-23,West,New,Email
+C-02430,2026-01-31,West,Returning,Social
+C-02431,2024-04-22,North,Returning,Paid Search
+C-02432,2023-05-16,East,New,Social
+C-02433,2026-03-06,East,New,Email
+C-02434,2023-04-17,North,Returning,Social
+C-02435,2025-05-24,West,Returning,Organic Search
+C-02436,2024-02-04,East,New,Organic Search
+C-02437,2024-12-20,West,Returning,Organic Search
+C-02438,2023-08-28,West,Returning,Email
+C-02439,2023-06-06,Central,New,Organic Search
+C-02440,2023-08-24,Central,New,Organic Search
+C-02441,2025-08-15,Central,Returning,Organic Search
+C-02442,2023-06-01,North,Returning,Organic Search
+C-02443,2023-04-12,South,New,Marketplace
+C-02444,2025-05-18,North,Returning,Organic Search
+C-02445,2023-11-07,West,Returning,Marketplace
+C-02446,2023-07-05,Central,VIP,Email
+C-02447,2026-04-17,North,Returning,Email
+C-02448,2024-04-11,North,VIP,Organic Search
+C-02449,2022-12-24,West,Returning,Organic Search
+C-02450,2024-11-23,North,New,Paid Search
+C-02451,2024-01-31,West,New,Organic Search
+C-02452,2024-05-20,Central,Returning,Paid Search
+C-02453,2025-12-10,East,Returning,Marketplace
+C-02454,2025-04-18,South,Returning,Organic Search
+C-02455,2023-10-27,West,New,Social
+C-02456,2025-01-19,West,New,Email
+C-02457,2023-10-12,Central,Returning,Email
+C-02458,2025-05-08,West,Returning,Marketplace
+C-02459,2023-06-15,South,Returning,Email
+C-02460,2024-12-11,West,VIP,Paid Search
+C-02461,2023-01-15,South,VIP,Paid Search
+C-02462,2026-03-27,West,Returning,Direct
+C-02463,2024-10-28,North,New,Marketplace
+C-02464,2025-04-04,South,Returning,Organic Search
+C-02465,2024-12-07,West,New,Organic Search
+C-02466,2024-08-20,West,Returning,Organic Search
+C-02467,2026-01-12,Central,Returning,Email
+C-02468,2025-01-04,North,New,Organic Search
+C-02469,2025-12-29,East,New,Marketplace
+C-02470,2023-04-09,West,Returning,Social
+C-02471,2025-04-16,South,New,Organic Search
+C-02472,2025-08-14,Central,Returning,Paid Search
+C-02473,2023-07-19,East,Returning,Email
+C-02474,2024-03-05,South,Returning,Social
+C-02475,2026-01-29,Central,VIP,Paid Search
+C-02476,2025-02-08,East,New,Email
+C-02477,2024-09-27,North,Returning,Organic Search
+C-02478,2025-03-06,South,Returning,Social
+C-02479,2025-02-03,West,New,Email
+C-02480,2023-02-11,West,New,Paid Search
+C-02481,2023-07-13,Central,Returning,Organic Search
+C-02482,2024-02-08,North,New,Organic Search
+C-02483,2024-08-29,West,Returning,Organic Search
+C-02484,2023-05-06,Central,New,Paid Search
+C-02485,2025-11-11,Central,VIP,Marketplace
+C-02486,2024-04-21,North,VIP,Organic Search
+C-02487,2024-07-22,South,New,Email
+C-02488,2024-12-23,North,New,Organic Search
+C-02489,2025-06-07,South,New,Organic Search
+C-02490,2026-02-15,Central,VIP,Paid Search
+C-02491,2025-05-10,East,Returning,Organic Search
+C-02492,2025-07-12,Central,Returning,Paid Search
+C-02493,2025-07-22,South,New,Paid Search
+C-02494,2023-04-25,West,New,Organic Search
+C-02495,2024-01-02,North,Returning,Email
+C-02496,2024-01-16,North,New,Marketplace
+C-02497,2023-11-26,South,Returning,Marketplace
+C-02498,2025-10-22,South,Returning,Direct
+C-02499,2025-05-24,West,Returning,Organic Search
+C-02500,2023-07-31,South,New,Direct
+C-02501,2026-04-30,West,Returning,Organic Search
+C-02502,2024-05-29,West,Returning,Direct
+C-02503,2026-02-01,North,Returning,Marketplace
+C-02504,2023-06-20,Central,New,Organic Search
+C-02505,2023-01-04,East,Returning,Paid Search
+C-02506,2023-07-07,North,VIP,Paid Search
+C-02507,2023-09-11,East,New,Paid Search
+C-02508,2025-04-28,North,New,Social
+C-02509,2025-03-21,North,New,Organic Search
+C-02510,2024-05-25,East,Returning,Paid Search
+C-02511,2023-02-17,Central,Returning,Organic Search
+C-02512,2023-02-23,East,VIP,Organic Search
+C-02513,2025-10-31,North,New,Social
+C-02514,2025-02-12,North,New,Social
+C-02515,2024-05-09,North,Returning,Organic Search
+C-02516,2024-06-18,South,Returning,Organic Search
+C-02517,2023-11-21,West,Returning,Email
+C-02518,2024-07-24,West,Returning,Organic Search
+C-02519,2023-03-29,South,New,Paid Search
+C-02520,2022-12-03,South,Returning,Organic Search
+C-02521,2024-04-30,North,VIP,Social
+C-02522,2022-11-26,Central,Returning,Email
+C-02523,2025-08-03,East,Returning,Organic Search
+C-02524,2022-12-12,Central,Returning,Marketplace
+C-02525,2025-10-17,West,Returning,Social
+C-02526,2023-05-30,West,New,Paid Search
+C-02527,2024-10-25,South,VIP,Email
+C-02528,2024-11-22,West,Returning,Paid Search
+C-02529,2024-09-20,West,VIP,Marketplace
+C-02530,2026-03-11,South,Returning,Email
+C-02531,2022-12-19,South,New,Organic Search
+C-02532,2023-08-24,North,New,Email
+C-02533,2025-04-07,West,New,Organic Search
+C-02534,2024-12-19,Central,Returning,Marketplace
+C-02535,2025-11-26,East,VIP,Direct
+C-02536,2025-10-21,Central,New,Paid Search
+C-02537,2024-09-15,South,New,Direct
+C-02538,2024-08-01,East,New,Social
+C-02539,2026-04-14,West,New,Email
+C-02540,2024-10-17,Central,New,Email
+C-02541,2023-09-04,North,Returning,Direct
+C-02542,2025-12-24,South,Returning,Paid Search
+C-02543,2024-07-02,North,New,Paid Search
+C-02544,2026-03-05,East,New,Organic Search
+C-02545,2024-10-28,North,Returning,Organic Search
+C-02546,2024-10-24,West,Returning,Email
+C-02547,2025-12-29,North,New,Organic Search
+C-02548,2023-12-14,Central,Returning,Paid Search
+C-02549,2023-01-11,South,Returning,Marketplace
+C-02550,2025-01-06,Central,Returning,Organic Search
+C-02551,2024-04-25,East,VIP,Organic Search
+C-02552,2025-04-17,South,Returning,Email
+C-02553,2023-12-20,South,New,Organic Search
+C-02554,2024-07-23,East,New,Social
+C-02555,2025-11-28,West,New,Marketplace
+C-02556,2023-05-22,East,New,Paid Search
+C-02557,2024-11-08,South,Returning,Paid Search
+C-02558,2025-02-24,Central,Returning,Organic Search
+C-02559,2025-03-18,North,New,Marketplace
+C-02560,2024-03-17,South,Returning,Social
+C-02561,2026-01-08,North,Returning,Marketplace
+C-02562,2023-07-22,North,New,Marketplace
+C-02563,2025-10-02,North,Returning,Organic Search
+C-02564,2023-06-14,North,New,Paid Search
+C-02565,2025-07-20,Central,Returning,Organic Search
+C-02566,2026-02-16,West,Returning,Organic Search
+C-02567,2023-12-31,East,Returning,Direct
+C-02568,2023-08-13,West,New,Marketplace
+C-02569,2024-07-15,West,Returning,Direct
+C-02570,2025-07-27,North,Returning,Organic Search
+C-02571,2023-09-16,North,Returning,Organic Search
+C-02572,2023-12-30,North,New,Email
+C-02573,2025-01-15,North,New,Paid Search
+C-02574,2023-11-18,West,Returning,Email
+C-02575,2026-04-14,Central,Returning,Email
+C-02576,2025-04-10,North,New,Organic Search
+C-02577,2024-03-13,West,New,Email
+C-02578,2025-07-09,South,Returning,Organic Search
+C-02579,2026-02-24,West,Returning,Paid Search
+C-02580,2023-06-14,West,Returning,Organic Search
+C-02581,2024-06-09,East,Returning,Organic Search
+C-02582,2024-07-19,West,New,Social
+C-02583,2025-05-05,Central,New,Direct
+C-02584,2025-06-22,East,VIP,Organic Search
+C-02585,2023-09-27,Central,New,Email
+C-02586,2024-10-21,East,VIP,Email
+C-02587,2023-10-30,South,Returning,Social
+C-02588,2024-10-01,Central,Returning,Organic Search
+C-02589,2024-07-19,North,VIP,Marketplace
+C-02590,2025-07-24,East,New,Social
+C-02591,2026-01-29,East,Returning,Social
+C-02592,2024-04-20,South,New,Direct
+C-02593,2024-10-19,West,Returning,Organic Search
+C-02594,2023-01-06,North,Returning,Organic Search
+C-02595,2023-06-12,West,Returning,Paid Search
+C-02596,2024-02-24,West,VIP,Social
+C-02597,2024-03-05,Central,New,Social
+C-02598,2025-01-01,South,Returning,Organic Search
+C-02599,2026-04-13,North,New,Social
+C-02600,2025-04-29,East,Returning,Marketplace
+C-02601,2023-10-29,West,New,Paid Search
+C-02602,2026-01-25,North,Returning,Email
+C-02603,2024-06-14,West,New,Paid Search
+C-02604,2025-10-24,North,Returning,Email
+C-02605,2023-05-23,West,New,Marketplace
+C-02606,2024-11-12,East,Returning,Marketplace
+C-02607,2024-10-04,West,New,Direct
+C-02608,2025-10-23,West,Returning,Email
+C-02609,2025-07-04,South,Returning,Marketplace
+C-02610,2023-08-16,East,Returning,Social
+C-02611,2023-04-01,North,Returning,Email
+C-02612,2023-06-01,North,New,Email
+C-02613,2024-09-14,West,New,Paid Search
+C-02614,2024-04-04,South,New,Marketplace
+C-02615,2023-09-26,North,VIP,Email
+C-02616,2025-10-02,East,VIP,Paid Search
+C-02617,2023-03-03,Central,Returning,Email
+C-02618,2024-04-28,North,Returning,Paid Search
+C-02619,2023-12-22,West,New,Organic Search
+C-02620,2025-12-01,South,Returning,Social
+C-02621,2023-03-14,North,New,Direct
+C-02622,2026-04-09,West,Returning,Organic Search
+C-02623,2023-03-31,East,VIP,Email
+C-02624,2023-04-21,East,VIP,Organic Search
+C-02625,2023-01-31,East,New,Organic Search
+C-02626,2024-10-24,South,Returning,Marketplace
+C-02627,2024-02-16,North,New,Social
+C-02628,2023-12-13,Central,Returning,Social
+C-02629,2022-12-14,North,Returning,Social
+C-02630,2023-07-21,South,Returning,Organic Search
+C-02631,2025-04-21,East,New,Marketplace
+C-02632,2024-10-27,East,New,Organic Search
+C-02633,2024-02-25,North,New,Paid Search
+C-02634,2025-11-09,Central,Returning,Organic Search
+C-02635,2024-04-01,North,Returning,Organic Search
+C-02636,2023-11-11,South,New,Email
+C-02637,2024-03-21,North,VIP,Paid Search
+C-02638,2023-07-15,North,Returning,Direct
+C-02639,2024-01-02,West,Returning,Paid Search
+C-02640,2024-02-01,South,Returning,Paid Search
+C-02641,2025-12-10,West,New,Email
+C-02642,2024-05-07,East,New,Organic Search
+C-02643,2024-10-16,West,VIP,Social
+C-02644,2024-06-01,Central,New,Marketplace
+C-02645,2025-10-08,West,New,Organic Search
+C-02646,2024-12-08,West,Returning,Organic Search
+C-02647,2024-03-02,West,Returning,Paid Search
+C-02648,2023-06-28,West,New,Organic Search
+C-02649,2026-02-23,West,New,Organic Search
+C-02650,2024-05-31,South,Returning,Organic Search
+C-02651,2024-12-29,North,New,Organic Search
+C-02652,2023-11-19,East,Returning,Social
+C-02653,2023-01-10,South,Returning,Organic Search
+C-02654,2026-04-06,South,Returning,Marketplace
+C-02655,2024-04-27,East,Returning,Social
+C-02656,2024-10-05,East,Returning,Marketplace
+C-02657,2023-03-03,East,Returning,Direct
+C-02658,2024-06-17,Central,Returning,Email
+C-02659,2026-01-22,West,Returning,Organic Search
+C-02660,2024-12-26,Central,Returning,Organic Search
+C-02661,2022-12-08,West,New,Organic Search
+C-02662,2024-04-01,South,Returning,Email
+C-02663,2023-01-25,South,Returning,Social
+C-02664,2026-04-05,South,New,Social
+C-02665,2024-05-01,East,Returning,Organic Search
+C-02666,2022-11-25,Central,Returning,Email
+C-02667,2025-12-20,North,New,Direct
+C-02668,2024-05-26,East,VIP,Direct
+C-02669,2025-04-27,West,New,Organic Search
+C-02670,2025-08-16,West,New,Organic Search
+C-02671,2026-04-25,North,Returning,Social
+C-02672,2023-11-19,Central,Returning,Email
+C-02673,2023-01-31,North,Returning,Direct
+C-02674,2024-04-20,North,VIP,Marketplace
+C-02675,2024-10-30,North,Returning,Organic Search
+C-02676,2023-06-18,East,New,Email
+C-02677,2024-03-06,East,New,Marketplace
+C-02678,2025-03-07,South,New,Paid Search
+C-02679,2022-12-27,West,New,Paid Search
+C-02680,2025-02-19,South,VIP,Direct
+C-02681,2024-07-01,North,Returning,Organic Search
+C-02682,2023-09-10,North,VIP,Email
+C-02683,2024-08-09,West,Returning,Email
+C-02684,2026-02-09,Central,Returning,Paid Search
+C-02685,2026-02-12,West,New,Paid Search
+C-02686,2023-04-16,Central,VIP,Direct
+C-02687,2026-01-07,East,Returning,Email
+C-02688,2025-03-12,North,Returning,Marketplace
+C-02689,2023-02-20,West,Returning,Email
+C-02690,2024-08-17,West,New,Paid Search
+C-02691,2024-03-20,West,New,Direct
+C-02692,2024-02-22,West,Returning,Organic Search
+C-02693,2024-03-14,Central,Returning,Paid Search
+C-02694,2023-04-19,East,New,Direct
+C-02695,2025-07-25,East,Returning,Paid Search
+C-02696,2026-01-16,Central,Returning,Direct
+C-02697,2024-03-22,South,Returning,Email
+C-02698,2023-08-16,West,Returning,Paid Search
+C-02699,2023-07-06,South,New,Direct
+C-02700,2026-01-29,Central,Returning,Organic Search
+C-02701,2023-11-10,North,Returning,Organic Search
+C-02702,2024-04-29,West,Returning,Email
+C-02703,2023-06-01,North,New,Paid Search
+C-02704,2023-10-14,North,VIP,Marketplace
+C-02705,2025-01-09,South,VIP,Paid Search
+C-02706,2025-12-21,South,New,Paid Search
+C-02707,2024-09-26,East,Returning,Direct
+C-02708,2023-02-07,Central,New,Direct
+C-02709,2025-02-21,West,Returning,Paid Search
+C-02710,2025-07-11,West,Returning,Social
+C-02711,2026-02-26,Central,VIP,Organic Search
+C-02712,2022-11-22,South,Returning,Social
+C-02713,2024-12-22,North,New,Social
+C-02714,2024-06-01,North,VIP,Paid Search
+C-02715,2024-10-05,East,New,Email
+C-02716,2025-09-12,South,Returning,Paid Search
+C-02717,2024-08-20,Central,Returning,Organic Search
+C-02718,2024-01-12,South,Returning,Marketplace
+C-02719,2024-08-11,South,New,Organic Search
+C-02720,2024-05-20,North,Returning,Organic Search
+C-02721,2024-04-21,West,VIP,Direct
+C-02722,2024-05-30,North,New,Marketplace
+C-02723,2023-10-18,Central,New,Direct
+C-02724,2025-11-16,North,Returning,Email
+C-02725,2022-12-29,South,New,Direct
+C-02726,2025-03-29,East,Returning,Marketplace
+C-02727,2024-07-03,West,VIP,Direct
+C-02728,2023-07-10,East,Returning,Organic Search
+C-02729,2023-08-14,West,VIP,Organic Search
+C-02730,2024-10-31,West,Returning,Organic Search
+C-02731,2023-04-08,East,New,Organic Search
+C-02732,2025-09-22,North,Returning,Social
+C-02733,2023-01-24,Central,Returning,Marketplace
+C-02734,2024-08-18,East,New,Marketplace
+C-02735,2023-01-18,East,VIP,Organic Search
+C-02736,2026-02-19,Central,New,Social
+C-02737,2024-05-03,East,Returning,Organic Search
+C-02738,2025-08-20,North,New,Marketplace
+C-02739,2025-09-29,West,Returning,Organic Search
+C-02740,2023-03-24,East,Returning,Social
+C-02741,2023-01-25,South,New,Paid Search
+C-02742,2026-02-14,South,New,Email
+C-02743,2023-11-10,West,Returning,Marketplace
+C-02744,2025-07-27,West,Returning,Email
+C-02745,2025-11-23,North,Returning,Organic Search
+C-02746,2024-06-17,East,New,Organic Search
+C-02747,2025-03-26,East,New,Paid Search
+C-02748,2023-06-27,South,New,Organic Search
+C-02749,2025-07-24,Central,Returning,Email
+C-02750,2024-03-01,South,New,Organic Search
+C-02751,2025-02-21,West,New,Organic Search
+C-02752,2024-08-18,West,New,Paid Search
+C-02753,2024-04-23,South,VIP,Social
+C-02754,2024-10-02,North,Returning,Paid Search
+C-02755,2024-02-03,North,Returning,Organic Search
+C-02756,2023-06-20,East,VIP,Paid Search
+C-02757,2026-03-29,Central,Returning,Organic Search
+C-02758,2024-12-22,West,New,Direct
+C-02759,2025-12-13,North,New,Organic Search
+C-02760,2025-11-07,North,New,Email
+C-02761,2024-02-19,North,New,Paid Search
+C-02762,2025-03-02,West,New,Direct
+C-02763,2023-01-19,West,Returning,Email
+C-02764,2025-08-30,East,New,Organic Search
+C-02765,2024-07-16,West,New,Social
+C-02766,2023-01-15,North,New,Marketplace
+C-02767,2025-02-04,West,New,Organic Search
+C-02768,2023-04-29,East,New,Social
+C-02769,2025-03-06,West,New,Email
+C-02770,2023-09-13,East,New,Paid Search
+C-02771,2026-03-31,West,Returning,Paid Search
+C-02772,2022-12-24,East,New,Organic Search
+C-02773,2026-01-30,South,Returning,Organic Search
+C-02774,2025-02-16,East,Returning,Marketplace
+C-02775,2025-11-03,South,Returning,Direct
+C-02776,2025-01-21,West,VIP,Social
+C-02777,2025-05-21,Central,New,Paid Search
+C-02778,2024-02-25,East,Returning,Organic Search
+C-02779,2024-08-04,West,New,Direct
+C-02780,2023-05-21,North,Returning,Direct
+C-02781,2026-03-06,North,New,Email
+C-02782,2025-07-03,West,Returning,Social
+C-02783,2023-03-07,South,Returning,Paid Search
+C-02784,2024-09-28,North,Returning,Social
+C-02785,2026-03-17,North,New,Social
+C-02786,2026-01-01,East,Returning,Paid Search
+C-02787,2024-03-03,West,New,Email
+C-02788,2023-04-22,South,VIP,Organic Search
+C-02789,2023-07-25,North,Returning,Social
+C-02790,2023-10-13,Central,New,Organic Search
+C-02791,2025-03-24,East,Returning,Email
+C-02792,2023-08-20,East,Returning,Paid Search
+C-02793,2024-07-06,Central,New,Social
+C-02794,2024-05-15,East,Returning,Paid Search
+C-02795,2023-10-12,East,New,Organic Search
+C-02796,2026-04-17,South,VIP,Email
+C-02797,2025-06-30,Central,Returning,Direct
+C-02798,2023-08-11,West,New,Email
+C-02799,2024-08-18,North,New,Organic Search
+C-02800,2022-11-18,North,New,Social

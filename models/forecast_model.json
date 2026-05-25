@@ -1,0 +1,35 @@
+{
+  "model": "ridge_seasonal_regression",
+  "training_start": "2024-01-01",
+  "training_end": "2026-04-30",
+  "observations": 851,
+  "horizon_days": 90,
+  "holdout_days": 60,
+  "holdout_mape": 0.1481,
+  "residual_std": 3558.73,
+  "next_30_day_forecast": 541532.89,
+  "coefficients": [
+    5104.917693,
+    3817.185634,
+    88.135215,
+    503.207688,
+    3740.136071,
+    4201.227601,
+    4590.191417,
+    3627.019561,
+    5291.12726,
+    6865.944872
+  ],
+  "feature_order": [
+    "intercept",
+    "scaled_time",
+    "sin_day_of_year",
+    "cos_day_of_year",
+    "weekday_monday",
+    "weekday_tuesday",
+    "weekday_wednesday",
+    "weekday_thursday",
+    "weekday_friday",
+    "weekday_saturday"
+  ]
+}

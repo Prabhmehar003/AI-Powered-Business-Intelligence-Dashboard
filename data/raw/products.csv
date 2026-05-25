@@ -1,0 +1,21 @@
+product_id,product_name,category,list_price,unit_cost
+P-1001,Noise-canceling Headphones,Electronics,149.00,82.00
+P-1002,Smart Fitness Watch,Electronics,219.00,126.00
+P-1003,USB-C Docking Station,Electronics,129.00,73.00
+P-1004,Portable Projector,Electronics,349.00,218.00
+P-2001,Organic Face Serum,Beauty,42.00,14.00
+P-2002,Hydrating Shampoo Set,Beauty,28.00,9.00
+P-2003,LED Vanity Mirror,Beauty,76.00,34.00
+P-3001,Ergonomic Office Chair,Home,289.00,156.00
+P-3002,Weighted Blanket,Home,88.00,39.00
+P-3003,Air Purifier,Home,199.00,112.00
+P-3004,Standing Desk Mat,Home,49.00,17.00
+P-4001,Trail Running Shoes,Sports,132.00,61.00
+P-4002,Adjustable Dumbbells,Sports,399.00,241.00
+P-4003,Yoga Starter Kit,Sports,54.00,19.00
+P-5001,Merino Travel Hoodie,Apparel,118.00,47.00
+P-5002,All-weather Jacket,Apparel,179.00,83.00
+P-5003,Compression Socks Pack,Apparel,24.00,6.00
+P-6001,Data Science Handbook,Books,38.00,12.00
+P-6002,Leadership Field Guide,Books,31.00,8.00
+P-6003,Cookbook Collection,Books,45.00,15.00

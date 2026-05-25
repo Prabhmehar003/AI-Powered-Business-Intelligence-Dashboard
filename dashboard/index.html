@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI-Powered BI Dashboard</title>
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">E-commerce BI Command Center</p>
+        <h1>AI-Powered Business Intelligence Dashboard</h1>
+      </div>
+      <div class="status">
+        <span id="dateRange">Loading data</span>
+        <strong id="modelScore">Forecast model</strong>
+      </div>
+    </header>
+
+    <main>
+      <section class="filter-band" aria-label="Dashboard filters">
+        <label>
+          Start
+          <input id="startDate" type="date" />
+        </label>
+        <label>
+          End
+          <input id="endDate" type="date" />
+        </label>
+        <label>
+          Category
+          <select id="categoryFilter"></select>
+        </label>
+        <label>
+          Region
+          <select id="regionFilter"></select>
+        </label>
+        <label>
+          Channel
+          <select id="channelFilter"></select>
+        </label>
+        <button id="resetFilters" type="button">Reset</button>
+      </section>
+
+      <section class="kpi-grid" aria-label="Key metrics">
+        <article class="kpi">
+          <span>Revenue</span>
+          <strong id="kpiRevenue">$0</strong>
+          <em id="kpiRoas">0.00x ROAS</em>
+        </article>
+        <article class="kpi">
+          <span>Gross Profit</span>
+          <strong id="kpiProfit">$0</strong>
+          <em id="kpiMargin">0.0% margin</em>
+        </article>
+        <article class="kpi">
+          <span>Orders</span>
+          <strong id="kpiOrders">0</strong>
+          <em id="kpiAov">$0 AOV</em>
+        </article>
+        <article class="kpi">
+          <span>Forecast</span>
+          <strong id="kpiForecast">$0</strong>
+          <em>next 30 days</em>
+        </article>
+      </section>
+
+      <section class="dashboard-grid">
+        <article class="panel panel-wide">
+          <div class="panel-heading">
+            <h2>Revenue + Forecast</h2>
+            <span id="trendNote">Daily net revenue</span>
+          </div>
+          <canvas id="revenueChart" aria-label="Revenue trend chart"></canvas>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <h2>Category Revenue</h2>
+            <span>Top 8</span>
+          </div>
+          <canvas id="categoryChart" aria-label="Category revenue chart"></canvas>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <h2>Channel Mix</h2>
+            <span>Revenue share</span>
+          </div>
+          <canvas id="channelChart" aria-label="Channel mix chart"></canvas>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <h2>Regional Performance</h2>
+            <span>Net revenue</span>
+          </div>
+          <canvas id="regionChart" aria-label="Regional revenue chart"></canvas>
+        </article>
+
+        <article class="panel">
+          <div class="panel-heading">
+            <h2>Anomaly Events</h2>
+            <span id="anomalyCount">0 flagged</span>
+          </div>
+          <div id="anomalyList" class="anomaly-list"></div>
+        </article>
+
+        <article class="panel panel-chat">
+          <div class="panel-heading">
+            <h2>Analytics Q&A</h2>
+            <span>Local assistant</span>
+          </div>
+          <div id="sampleQuestions" class="sample-questions"></div>
+          <div id="chatLog" class="chat-log"></div>
+          <form id="chatForm" class="chat-form">
+            <input id="chatInput" autocomplete="off" placeholder="Ask about revenue, margin, forecast, anomalies" />
+            <button type="submit">Ask</button>
+          </form>
+        </article>
+      </section>
+    </main>
+
+    <script src="./assets/dashboard_data.js"></script>
+    <script src="./assets/app.js"></script>
+  </body>
+</html>

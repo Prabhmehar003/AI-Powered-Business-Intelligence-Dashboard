@@ -1,0 +1,11 @@
+{
+  "model": "ridge_seasonal_regression",
+  "training_start": "2024-01-01",
+  "training_end": "2026-04-30",
+  "observations": 851,
+  "horizon_days": 90,
+  "holdout_days": 60,
+  "holdout_mape": 0.1481,
+  "residual_std": 3558.73,
+  "next_30_day_forecast": 541532.89
+}
