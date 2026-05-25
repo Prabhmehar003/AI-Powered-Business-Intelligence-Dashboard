@@ -1,5 +1,32 @@
-.venv/
+# Python cache and build artifacts
 __pycache__/
-*.pyc
-.DS_Store
+*.py[codz]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Virtual environments and local secrets
+.env
+.envrc
+.venv/
+env/
+venv/
 .streamlit/
+
+# Test, lint, and notebook cache
+.coverage
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Local app/runtime artifacts
+*.log
+tempCodeRunnerFile.py

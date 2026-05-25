@@ -12,6 +12,7 @@ End-to-end analytics project for e-commerce sales data. It generates raw operati
 - Interactive browser dashboard in `dashboard/index.html`
 - Optional Streamlit dashboard in `streamlit_app.py`
 - Local Q&A assistant in `scripts/ask.py`
+- MIT license from the GitHub repository setup
 
 ## Quick Start
 
